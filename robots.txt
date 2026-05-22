@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://optimummag.com
+Sitemap: https://optimummag.com/sitemap.xml
