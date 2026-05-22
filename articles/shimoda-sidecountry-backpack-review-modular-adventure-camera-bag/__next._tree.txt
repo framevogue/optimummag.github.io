@@ -1,2 +1,2 @@
-:HL["/_next/static/chunks/189ijqnqkf-6e.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"shimoda-sidecountry-backpack-review-modular-adventure-camera-bag","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"zLze5bTbegg2XvajguwOF"}
+:HL["/_next/static/chunks/13etm42t6tazv.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"shimoda-sidecountry-backpack-review-modular-adventure-camera-bag","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"EIZYGbA-9vcFO5bUhA2T5"}
