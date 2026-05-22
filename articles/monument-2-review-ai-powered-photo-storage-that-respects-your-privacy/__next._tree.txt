@@ -1,2 +1,2 @@
-:HL["/_next/static/chunks/13etm42t6tazv.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"monument-2-review-ai-powered-photo-storage-that-respects-your-privacy","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"EIZYGbA-9vcFO5bUhA2T5"}
+:HL["/_next/static/chunks/0q3e1vyvw-ycl.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"monument-2-review-ai-powered-photo-storage-that-respects-your-privacy","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"UJ7IEaUxJ5AY2XLfN5N5S"}

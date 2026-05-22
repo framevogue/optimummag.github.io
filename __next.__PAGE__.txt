@@ -1,36 +1,708 @@
 1:"$Sreact.fragment"
-2:I[33106,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0z.j6razzah2s.js"],"SiteHeader"]
-3:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0z.j6razzah2s.js"],""]
-18:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
-19:"$Sreact.suspense"
+2:I[33106,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/15qux-d7v8svq.js"],"SiteHeader"]
+3:I[40965,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/15qux-d7v8svq.js"],"TopTicker"]
+12:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/15qux-d7v8svq.js"],""]
+20:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+21:"$Sreact.suspense"
 :HL["/media/articles/the-best-underwater-housings-for-mirrorless-cameras-in-2026/01-thumb.avif","image",{"fetchPriority":"high"}]
 :HL["/media/articles/the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026/01-thumb.avif","image",{"fetchPriority":"auto"}]
 :HL["/media/articles/shimoda-sidecountry-backpack-review-modular-adventure-camera-bag/01-thumb.avif","image",{"fetchPriority":"auto"}]
 :HL["/media/articles/peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested/01-thumb.avif","image",{"fetchPriority":"auto"}]
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"site-shell","children":[["$","$L2",null,{}],["$","section",null,{"className":"top-ticker","aria-label":"Featured headlines","children":["$","div",null,{"className":"ticker-inner","children":[["$","$L3","the-best-underwater-housings-for-mirrorless-cameras-in-2026",{"href":"/articles/the-best-underwater-housings-for-mirrorless-cameras-in-2026","children":"The Best Underwater Housings for Mirrorless Cameras in 2026"}],["$","$L3","the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026",{"href":"/articles/the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026","children":"The Best Anamorphic Lenses for iPhone Photography and Video in 2026"}],["$","$L3","shimoda-sidecountry-backpack-review-modular-adventure-camera-bag",{"href":"/articles/shimoda-sidecountry-backpack-review-modular-adventure-camera-bag","children":"Shimoda Sidecountry Backpack Review: Modular Adventure Camera Bag"}],["$","$L3","peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested",{"href":"/articles/peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested","children":"Peak Design Travel Tripod Review: The Most Innovative Tripod We've Ever Tested"}],["$","$L3","peak-design-everyday-backpack-v2-review-still-the-king-of-camera-bags-in-2025",{"href":"/articles/peak-design-everyday-backpack-v2-review-still-the-king-of-camera-bags-in-2025","children":"Peak Design Everyday Backpack V2 Review: Still the King of Camera Bags in 2025"}]]}]}],["$","section",null,{"className":"lead-stack","aria-label":"Top stories","children":[["$","$L3","the-best-underwater-housings-for-mirrorless-cameras-in-2026",{"className":"lead-story lead-story-featured","href":"/articles/the-best-underwater-housings-for-mirrorless-cameras-in-2026","children":[["$","img",null,{"src":"/media/articles/the-best-underwater-housings-for-mirrorless-cameras-in-2026/01-thumb.avif","alt":"Image 2: Top Underwater Housings for Mirrorless Cameras 2","decoding":"async","fetchPriority":"high","height":"720","width":"1280"}],["$","span",null,{"className":"lead-story-copy","children":[["$","span",null,{"className":"lead-category","children":"Camera Reviews"}],["$","strong",null,{"children":"The Best Underwater Housings for Mirrorless Cameras in 2026"}]]}]]}],["$","$L3","the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026",{"className":"lead-story","href":"/articles/the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026","children":[["$","img",null,{"src":"/media/articles/the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026/01-thumb.avif","alt":"Image 2: Best Anamorphic Lenses for iPhone Photography - 2. Moment Anamorphic T-Series 1.33x Mobile Lens (Best Value)","decoding":"async","fetchPriority":"auto","height":"720","width":"1280"}],["$","span",null,{"className":"lead-story-copy","children":[["$","span",null,{"className":"lead-category","children":"Lenses"}],["$","strong",null,{"children":"The Best Anamorphic Lenses for iPhone Photography and Video in 2026"}]]}]]}],["$","$L3","shimoda-sidecountry-backpack-review-modular-adventure-camera-bag",{"className":"lead-story","href":"/articles/shimoda-sidecountry-backpack-review-modular-adventure-camera-bag","children":[["$","img",null,{"src":"/media/articles/shimoda-sidecountry-backpack-review-modular-adventure-camera-bag/01-thumb.avif","alt":"mid","decoding":"async","fetchPriority":"auto","height":"720","width":"1280"}],["$","span",null,{"className":"lead-story-copy","children":[["$","span",null,{"className":"lead-category","children":"Gear"}],["$","strong",null,{"children":"Shimoda Sidecountry Backpack Review: Modular Adventure Camera Bag"}]]}]]}],["$","$L3","peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested",{"className":"lead-story","href":"/articles/peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested","children":["$L4","$L5"]}]]}],"$L6","$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"EIZYGbA-9vcFO5bUhA2T5"}
-4:["$","img",null,{"src":"/media/articles/peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested/01-thumb.avif","alt":"SEAT BAG OPTION IS A PADDED CAMERA BAG","decoding":"async","fetchPriority":"auto","height":"720","width":"1280"}]
-5:["$","span",null,{"className":"lead-story-copy","children":[["$","span",null,{"className":"lead-category","children":"Gear"}],["$","strong",null,{"children":"Peak Design Travel Tripod Review: The Most Innovative Tripod We've Ever Tested"}]]}]
-6:["$","section",null,{"id":"latest","className":"news-layout","children":["$","div",null,{"className":"section-inner","children":[["$","div",null,{"className":"main-feed","children":[["$","div",null,{"className":"section-title-row","children":[["$","h2",null,{"children":"The Latest"}],["$","$L3",null,{"href":"/articles","children":"All Articles"}]]}],["$","div",null,{"className":"latest-list","children":[["$","article","the-best-underwater-housings-for-mirrorless-cameras-in-2026",{"className":"news-item","children":[["$","$L3",null,{"className":"news-thumb","href":"/articles/the-best-underwater-housings-for-mirrorless-cameras-in-2026","aria-label":"The Best Underwater Housings for Mirrorless Cameras in 2026","children":["$","img",null,{"src":"/media/articles/the-best-underwater-housings-for-mirrorless-cameras-in-2026/01-thumb.avif","alt":"Image 2: Top Underwater Housings for Mirrorless Cameras 2","decoding":"async","height":"360","loading":"lazy","width":"520"}]}],["$","div",null,{"className":"news-item-body","children":[["$","div",null,{"className":"news-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:46:41.475Z","children":"May 22, 2026"}],["$","span",null,{"children":"Camera Reviews"}]]}],["$","h3",null,{"children":["$","$L3",null,{"href":"/articles/the-best-underwater-housings-for-mirrorless-cameras-in-2026","children":"The Best Underwater Housings for Mirrorless Cameras in 2026"}]}],["$","p",null,{"children":"Taking your mirrorless camera underwater opens up a completely different world of photography — from vibrant coral reefs and schooling fish to dramatic surf..."}]]}]]}],["$","article","the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026",{"className":"news-item","children":[["$","$L3",null,{"className":"news-thumb","href":"/articles/the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026","aria-label":"The Best Anamorphic Lenses for iPhone Photography and Video in 2026","children":["$","img",null,{"src":"/media/articles/the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026/01-thumb.avif","alt":"Image 2: Best Anamorphic Lenses for iPhone Photography - 2. Moment Anamorphic T-Series 1.33x Mobile Lens (Best Value)","decoding":"async","height":"360","loading":"lazy","width":"520"}]}],["$","div",null,{"className":"news-item-body","children":[["$","div",null,{"className":"news-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:46:40.788Z","children":"May 22, 2026"}],["$","span",null,{"children":"Lenses"}]]}],["$","h3",null,{"children":["$","$L3",null,{"href":"/articles/the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026","children":"The Best Anamorphic Lenses for iPhone Photography and Video in 2026"}]}],["$","p",null,{"children":"The iPhone has come a long way as a filmmaking tool. Modern models shoot stunning 4K video, handle low light remarkably well, and fit comfortably in your poc..."}]]}]]}],["$","article","shimoda-sidecountry-backpack-review-modular-adventure-camera-bag",{"className":"news-item","children":[["$","$L3",null,{"className":"news-thumb","href":"/articles/shimoda-sidecountry-backpack-review-modular-adventure-camera-bag","aria-label":"Shimoda Sidecountry Backpack Review: Modular Adventure Camera Bag","children":["$","img",null,{"src":"/media/articles/shimoda-sidecountry-backpack-review-modular-adventure-camera-bag/01-thumb.avif","alt":"mid","decoding":"async","height":"360","loading":"lazy","width":"520"}]}],["$","div",null,{"className":"news-item-body","children":[["$","div",null,{"className":"news-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:36:05.323Z","children":"May 22, 2026"}],["$","span",null,{"children":"Gear"}]]}],["$","h3",null,{"children":["$","$L3",null,{"href":"/articles/shimoda-sidecountry-backpack-review-modular-adventure-camera-bag","children":"Shimoda Sidecountry Backpack Review: Modular Adventure Camera Bag"}]}],["$","p",null,{"children":"The Shimoda Sidecountry is a lightweight, modular backpack system designed for adventure photographers who need quick camera access without sacrificing hikin..."}]]}]]}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13"]}]]}],"$L14"]}]}]
-7:["$","section",null,{"className":"section compact-archive","children":["$","div",null,{"className":"section-inner","children":[["$","div",null,{"className":"section-title-row","children":[["$","h2",null,{"children":"More From Optimum Mag"}],["$","$L3",null,{"href":"/articles","children":"Browse Archive"}]]}],["$","div",null,{"className":"article-grid","children":[["$","$L3","the-best-underwater-housings-for-mirrorless-cameras-in-2026",{"className":"article-card","href":"/articles/the-best-underwater-housings-for-mirrorless-cameras-in-2026","children":[["$","div",null,{"className":"article-card-image","children":["$","img",null,{"src":"/media/articles/the-best-underwater-housings-for-mirrorless-cameras-in-2026/01-thumb.avif","alt":"Image 2: Top Underwater Housings for Mirrorless Cameras 2","decoding":"async","height":"480","loading":"lazy","width":"720"}]}],["$","div",null,{"className":"article-card-body","children":[["$","div",null,{"className":"article-card-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:46:41.475Z","children":"May 22, 2026"}],["$","span",null,{"className":"tag category-tag","children":"Camera Reviews"}]]}],["$","h3",null,{"children":"The Best Underwater Housings for Mirrorless Cameras in 2026"}],["$","p",null,{"children":"Taking your mirrorless camera underwater opens up a completely different world of photography — from vibrant coral reefs and schooling fish to dramatic surf..."}],null]}]]}],["$","$L3","the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026",{"className":"article-card","href":"/articles/the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026","children":[["$","div",null,{"className":"article-card-image","children":["$","img",null,{"src":"/media/articles/the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026/01-thumb.avif","alt":"Image 2: Best Anamorphic Lenses for iPhone Photography - 2. Moment Anamorphic T-Series 1.33x Mobile Lens (Best Value)","decoding":"async","height":"480","loading":"lazy","width":"720"}]}],["$","div",null,{"className":"article-card-body","children":[["$","div",null,{"className":"article-card-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:46:40.788Z","children":"May 22, 2026"}],["$","span",null,{"className":"tag category-tag","children":"Lenses"}]]}],["$","h3",null,{"children":"The Best Anamorphic Lenses for iPhone Photography and Video in 2026"}],["$","p",null,{"children":"The iPhone has come a long way as a filmmaking tool. Modern models shoot stunning 4K video, handle low light remarkably well, and fit comfortably in your poc..."}],null]}]]}],["$","$L3","shimoda-sidecountry-backpack-review-modular-adventure-camera-bag",{"className":"article-card","href":"/articles/shimoda-sidecountry-backpack-review-modular-adventure-camera-bag","children":[["$","div",null,{"className":"article-card-image","children":["$","img",null,{"src":"/media/articles/shimoda-sidecountry-backpack-review-modular-adventure-camera-bag/01-thumb.avif","alt":"mid","decoding":"async","height":"480","loading":"lazy","width":"720"}]}],["$","div",null,{"className":"article-card-body","children":[["$","div",null,{"className":"article-card-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:36:05.323Z","children":"May 22, 2026"}],["$","span",null,{"className":"tag category-tag","children":"Gear"}]]}],["$","h3",null,{"children":"Shimoda Sidecountry Backpack Review: Modular Adventure Camera Bag"}],["$","p",null,{"children":"The Shimoda Sidecountry is a lightweight, modular backpack system designed for adventure photographers who need quick camera access without sacrificing hikin..."}],null]}]]}],["$","$L3","peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested",{"className":"article-card","href":"/articles/peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested","children":[["$","div",null,{"className":"article-card-image","children":["$","img",null,{"src":"/media/articles/peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested/01-thumb.avif","alt":"SEAT BAG OPTION IS A PADDED CAMERA BAG","decoding":"async","height":"480","loading":"lazy","width":"720"}]}],"$L15"]}],"$L16","$L17"]}]]}]}]
-8:["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"section-inner footer-inner","children":[["$","div",null,{"className":"footer-about","children":[["$","$L3",null,{"className":"footer-brand","href":"/","children":[["$","span",null,{"children":"Optimum"}],["$","span",null,{"children":"Mag"}]]}],["$","p",null,{"children":"Optimum Mag is a photography magazine for camera reviews, lens tests, field technique, imaging workflow, and interviews with working photographers."}],["$","a",null,{"className":"footer-email","href":"mailto:contact@optimummag.com","children":"contact@optimummag.com"}]]}],["$","div",null,{"className":"footer-nav-grid","children":[["$","nav",null,{"className":"footer-link-group footer-category-links","aria-label":"Footer category navigation","children":[["$","h2",null,{"children":"Categories"}],["$","div",null,{"className":"footer-links","children":[["$","$L3","camera-reviews",{"href":"/categories/camera-reviews","children":"Camera Reviews"}],["$","$L3","lenses",{"href":"/categories/lenses","children":"Lenses"}],["$","$L3","tutorials",{"href":"/categories/tutorials","children":"Tutorials"}],["$","$L3","gear",{"href":"/categories/gear","children":"Gear"}],["$","$L3","interviews",{"href":"/categories/interviews","children":"Interviews"}]]}]]}],["$","nav",null,{"className":"footer-link-group","aria-label":"Footer site navigation","children":[["$","h2",null,{"children":"Site"}],["$","div",null,{"className":"footer-links","children":[["$","$L3",null,{"href":"/articles","children":"All Articles"}],["$","$L3",null,{"href":"/about","children":"About"}],["$","$L3",null,{"href":"/contact-us","children":"Contact Us"}],["$","$L3",null,{"href":"/advertise","children":"Advertise"}],["$","$L3",null,{"href":"/privacy-policy","children":"Privacy Policy"}]]}]]}]]}]]}]}]
-9:["$","script","script-0",{"src":"/_next/static/chunks/0z.j6razzah2s.js","async":true}]
-a:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
-b:["$","article","peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested",{"className":"news-item","children":[["$","$L3",null,{"className":"news-thumb","href":"/articles/peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested","aria-label":"Peak Design Travel Tripod Review: The Most Innovative Tripod We've Ever Tested","children":["$","img",null,{"src":"/media/articles/peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested/01-thumb.avif","alt":"SEAT BAG OPTION IS A PADDED CAMERA BAG","decoding":"async","height":"360","loading":"lazy","width":"520"}]}],["$","div",null,{"className":"news-item-body","children":[["$","div",null,{"className":"news-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:36:04.626Z","children":"May 22, 2026"}],["$","span",null,{"children":"Gear"}]]}],["$","h3",null,{"children":["$","$L3",null,{"href":"/articles/peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested","children":"Peak Design Travel Tripod Review: The Most Innovative Tripod We've Ever Tested"}]}],["$","p",null,{"children":"Peak Design spent years secretly developing what may be their most ambitious product to date: a travel tripod redesigned entirely from the ground up. Instead..."}]]}]]}]
-c:["$","article","peak-design-everyday-backpack-v2-review-still-the-king-of-camera-bags-in-2025",{"className":"news-item","children":[["$","$L3",null,{"className":"news-thumb","href":"/articles/peak-design-everyday-backpack-v2-review-still-the-king-of-camera-bags-in-2025","aria-label":"Peak Design Everyday Backpack V2 Review: Still the King of Camera Bags in 2025","children":["$","img",null,{"src":"/media/articles/peak-design-everyday-backpack-v2-review-still-the-king-of-camera-bags-in-2025/01-thumb.avif","alt":"mid","decoding":"async","height":"360","loading":"lazy","width":"520"}]}],["$","div",null,{"className":"news-item-body","children":[["$","div",null,{"className":"news-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:36:03.932Z","children":"May 22, 2026"}],["$","span",null,{"children":"Gear"}]]}],["$","h3",null,{"children":["$","$L3",null,{"href":"/articles/peak-design-everyday-backpack-v2-review-still-the-king-of-camera-bags-in-2025","children":"Peak Design Everyday Backpack V2 Review: Still the King of Camera Bags in 2025"}]}],["$","p",null,{"children":"The Peak Design Everyday Backpack has been the gold standard of camera bags since its 2015 Kickstarter debut. The V2 iteration refines the formula with impro..."}]]}]]}]
-d:["$","article","peak-design-capture-clip-v3-review-the-best-way-to-carry-a-camera-on-your-backpack",{"className":"news-item","children":[["$","$L3",null,{"className":"news-thumb","href":"/articles/peak-design-capture-clip-v3-review-the-best-way-to-carry-a-camera-on-your-backpack","aria-label":"Peak Design Capture Clip V3 Review: The Best Way to Carry a Camera on Your Backpack","children":["$","img",null,{"src":"/media/articles/peak-design-capture-clip-v3-review-the-best-way-to-carry-a-camera-on-your-backpack/01-thumb.avif","alt":"n182_w1150","decoding":"async","height":"360","loading":"lazy","width":"520"}]}],["$","div",null,{"className":"news-item-body","children":[["$","div",null,{"className":"news-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:36:03.244Z","children":"May 22, 2026"}],["$","span",null,{"children":"Camera Reviews"}]]}],["$","h3",null,{"children":["$","$L3",null,{"href":"/articles/peak-design-capture-clip-v3-review-the-best-way-to-carry-a-camera-on-your-backpack","children":"Peak Design Capture Clip V3 Review: The Best Way to Carry a Camera on Your Backpack"}]}],["$","p",null,{"children":"The Peak Design Capture Clip solves a problem every outdoor photographer knows: how to keep a camera accessible without the neck strain of a strap or the inc..."}]]}]]}]
-e:["$","article","sony-a6400-review-lightning-fast-autofocus-in-a-compact-body",{"className":"news-item","children":[["$","$L3",null,{"className":"news-thumb","href":"/articles/sony-a6400-review-lightning-fast-autofocus-in-a-compact-body","aria-label":"Sony a6400 Review: Lightning-Fast Autofocus in a Compact Body","children":["$","img",null,{"src":"/media/articles/sony-a6400-review-lightning-fast-autofocus-in-a-compact-body/01-thumb.avif","alt":"Camera equipment at Triggar VR booth at SVVR 2015 (closeup)","decoding":"async","height":"360","loading":"lazy","width":"520"}]}],["$","div",null,{"className":"news-item-body","children":[["$","div",null,{"className":"news-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:36:02.542Z","children":"May 22, 2026"}],["$","span",null,{"children":"Camera Reviews"}]]}],["$","h3",null,{"children":["$","$L3",null,{"href":"/articles/sony-a6400-review-lightning-fast-autofocus-in-a-compact-body","children":"Sony a6400 Review: Lightning-Fast Autofocus in a Compact Body"}]}],["$","p",null,{"children":"The Sony a6400 occupies an interesting place in the mirrorless camera landscape — it's small enough to carry everywhere, yet its autofocus system rivals came..."}]]}]]}]
-f:["$","article","gopro-hero-13-review-magnetic-mounts-make-the-difference",{"className":"news-item","children":[["$","$L3",null,{"className":"news-thumb","href":"/articles/gopro-hero-13-review-magnetic-mounts-make-the-difference","aria-label":"GoPro Hero 13 Review: Magnetic Mounts Make the Difference","children":["$","img",null,{"src":"/media/articles/gopro-hero-13-review-magnetic-mounts-make-the-difference/01-thumb.avif","alt":"DSLR Photography Camera","decoding":"async","height":"360","loading":"lazy","width":"520"}]}],["$","div",null,{"className":"news-item-body","children":[["$","div",null,{"className":"news-meta","children":[["$","time",null,{"dateTime":"2026-05-22T02:53:41.319Z","children":"May 22, 2026"}],["$","span",null,{"children":"Camera Reviews"}]]}],["$","h3",null,{"children":["$","$L3",null,{"href":"/articles/gopro-hero-13-review-magnetic-mounts-make-the-difference","children":"GoPro Hero 13 Review: Magnetic Mounts Make the Difference"}]}],["$","p",null,{"children":"After a year of testing — mountain biking, skiing, hiking, sailing, and commercial B-camera duty — the GoPro Hero 13 earns its place as the best action camer..."}]]}]]}]
-10:["$","article","dji-mavic-4-pro-review-a-noticeable-upgrade-over-the-mavic-3",{"className":"news-item","children":[["$","$L3",null,{"className":"news-thumb","href":"/articles/dji-mavic-4-pro-review-a-noticeable-upgrade-over-the-mavic-3","aria-label":"DJI Mavic 4 Pro Review: A Noticeable Upgrade Over the Mavic 3","children":["$","img",null,{"src":"/media/articles/dji-mavic-4-pro-review-a-noticeable-upgrade-over-the-mavic-3/01-thumb.avif","alt":"Phantom 3 Advance Drone Camera","decoding":"async","height":"360","loading":"lazy","width":"520"}]}],["$","div",null,{"className":"news-item-body","children":[["$","div",null,{"className":"news-meta","children":[["$","time",null,{"dateTime":"2026-05-22T02:53:40.621Z","children":"May 22, 2026"}],["$","span",null,{"children":"Camera Reviews"}]]}],["$","h3",null,{"children":["$","$L3",null,{"href":"/articles/dji-mavic-4-pro-review-a-noticeable-upgrade-over-the-mavic-3","children":"DJI Mavic 4 Pro Review: A Noticeable Upgrade Over the Mavic 3"}]}],["$","p",null,{"children":"After weeks testing the DJI Mavic 4 Pro across Colorado's mountains and the desert southwest, I can confirm this is a meaningful upgrade over the Mavic 3 Pro..."}]]}]]}]
-11:["$","article","canon-eos-r5-mark-ii-review-the-hybrid-powerhouse-that-tempted-a-sony-shooter",{"className":"news-item","children":[["$","$L3",null,{"className":"news-thumb","href":"/articles/canon-eos-r5-mark-ii-review-the-hybrid-powerhouse-that-tempted-a-sony-shooter","aria-label":"Canon EOS R5 Mark II Review: The Hybrid Powerhouse That Tempted a Sony Shooter","children":["$","img",null,{"src":"/media/articles/canon-eos-r5-mark-ii-review-the-hybrid-powerhouse-that-tempted-a-sony-shooter/01-thumb.avif","alt":"Camera equipment at Triggar VR booth at SVVR 2015 (closeup)","decoding":"async","height":"360","loading":"lazy","width":"520"}]}],["$","div",null,{"className":"news-item-body","children":[["$","div",null,{"className":"news-meta","children":[["$","time",null,{"dateTime":"2026-05-22T02:53:39.924Z","children":"May 22, 2026"}],["$","span",null,{"children":"Camera Reviews"}]]}],["$","h3",null,{"children":["$","$L3",null,{"href":"/articles/canon-eos-r5-mark-ii-review-the-hybrid-powerhouse-that-tempted-a-sony-shooter","children":"Canon EOS R5 Mark II Review: The Hybrid Powerhouse That Tempted a Sony Shooter"}]}],["$","p",null,{"children":"As a Sony shooter for nearly a decade, I didn't expect the Canon R5 Mark II to tempt me toward a system switch — but after several weeks of intensive testing..."}]]}]]}]
-12:["$","article","antigravity-a1-review-8k-360-drone-that-changes-how-you-fly",{"className":"news-item","children":[["$","$L3",null,{"className":"news-thumb","href":"/articles/antigravity-a1-review-8k-360-drone-that-changes-how-you-fly","aria-label":"Antigravity A1 Review: 8K 360° Drone That Changes How You Fly","children":["$","img",null,{"src":"/media/articles/antigravity-a1-review-8k-360-drone-that-changes-how-you-fly/01-thumb.avif","alt":"Phantom 3 Advance Drone Camera","decoding":"async","height":"360","loading":"lazy","width":"520"}]}],["$","div",null,{"className":"news-item-body","children":[["$","div",null,{"className":"news-meta","children":[["$","time",null,{"dateTime":"2026-05-22T02:53:39.243Z","children":"May 22, 2026"}],["$","span",null,{"children":"Camera Reviews"}]]}],["$","h3",null,{"children":["$","$L3",null,{"href":"/articles/antigravity-a1-review-8k-360-drone-that-changes-how-you-fly","children":"Antigravity A1 Review: 8K 360° Drone That Changes How You Fly"}]}],["$","p",null,{"children":"Incubated by Insta360, the Antigravity A1 is unlike any drone I've flown. Instead of dual sticks, you fly with a motion-sensing Grip Controller while wearing..."}]]}]]}]
-13:["$","article","wotancraft-full-leather-camera-pouch-review-premium-protection-in-four-sizes",{"className":"news-item","children":[["$","$L3",null,{"className":"news-thumb","href":"/articles/wotancraft-full-leather-camera-pouch-review-premium-protection-in-four-sizes","aria-label":"Wotancraft Full Leather Camera Pouch Review: Premium Protection in Four Sizes","children":["$","img",null,{"src":"/media/articles/wotancraft-full-leather-camera-pouch-review-premium-protection-in-four-sizes/01-thumb.avif","alt":"n182_w1150","decoding":"async","height":"360","loading":"lazy","width":"520"}]}],["$","div",null,{"className":"news-item-body","children":[["$","div",null,{"className":"news-meta","children":[["$","time",null,{"dateTime":"2026-05-22T02:53:38.532Z","children":"May 22, 2026"}],["$","span",null,{"children":"Camera Reviews"}]]}],["$","h3",null,{"children":["$","$L3",null,{"href":"/articles/wotancraft-full-leather-camera-pouch-review-premium-protection-in-four-sizes","children":"Wotancraft Full Leather Camera Pouch Review: Premium Protection in Four Sizes"}]}],["$","p",null,{"children":"Wotancraft's Full Leather Portable Camera Pouches bring the brand's signature vintage-meets-functional aesthetic to a compact form factor. Available in four..."}]]}]]}]
-14:["$","aside",null,{"className":"homepage-sidebar","aria-label":"Featured sections","children":[["$","section",null,{"className":"feature-block","children":[["$","div",null,{"className":"feature-block-heading","children":[["$","h2",null,{"children":"Featured Reviews"}],["$","$L3",null,{"href":"/categories/camera-reviews","children":"More >"}]]}],["$","div",null,{"className":"feature-list","children":[["$","$L3","the-best-underwater-housings-for-mirrorless-cameras-in-2026",{"href":"/articles/the-best-underwater-housings-for-mirrorless-cameras-in-2026","children":[["$","img",null,{"src":"/media/articles/the-best-underwater-housings-for-mirrorless-cameras-in-2026/01-thumb.avif","alt":"Image 2: Top Underwater Housings for Mirrorless Cameras 2","decoding":"async","height":"180","loading":"lazy","width":"260"}],["$","strong",null,{"children":"The Best Underwater Housings for Mirrorless Cameras in 2026"}]]}],["$","$L3","peak-design-capture-clip-v3-review-the-best-way-to-carry-a-camera-on-your-backpack",{"href":"/articles/peak-design-capture-clip-v3-review-the-best-way-to-carry-a-camera-on-your-backpack","children":[["$","img",null,{"src":"/media/articles/peak-design-capture-clip-v3-review-the-best-way-to-carry-a-camera-on-your-backpack/01-thumb.avif","alt":"n182_w1150","decoding":"async","height":"180","loading":"lazy","width":"260"}],["$","strong",null,{"children":"Peak Design Capture Clip V3 Review: The Best Way to Carry a Camera on Your Backpack"}]]}],["$","$L3","sony-a6400-review-lightning-fast-autofocus-in-a-compact-body",{"href":"/articles/sony-a6400-review-lightning-fast-autofocus-in-a-compact-body","children":[["$","img",null,{"src":"/media/articles/sony-a6400-review-lightning-fast-autofocus-in-a-compact-body/01-thumb.avif","alt":"Camera equipment at Triggar VR booth at SVVR 2015 (closeup)","decoding":"async","height":"180","loading":"lazy","width":"260"}],["$","strong",null,{"children":"Sony a6400 Review: Lightning-Fast Autofocus in a Compact Body"}]]}]]}]]}],["$","section",null,{"className":"membership-block","children":[["$","h2",null,{"children":"Become a Reader"}],["$","p",null,{"children":"Get field-tested buying notes, workflow ideas, and new photography guides."}],["$","$L3",null,{"className":"button primary","href":"mailto:contact@optimummag.com","children":"Contact the Desk"}]]}],["$","section",null,{"className":"feature-block","children":[["$","div",null,{"className":"feature-block-heading","children":[["$","h2",null,{"children":"Featured Guides"}],["$","$L3",null,{"href":"/categories/tutorials","children":"More >"}]]}],["$","div",null,{"className":"feature-list","children":[["$","$L3","one-window-portrait-lighting-a-quiet-setup-that-works",{"href":"/articles/one-window-portrait-lighting-a-quiet-setup-that-works","children":[["$","img",null,{"src":"/media/articles/canons-answer-to-the-sony-fx3-a-hands-on-canon-c50-review/03-thumb.avif","alt":"Studio portrait subject under soft light","decoding":"async","height":"180","loading":"lazy","width":"260"}],["$","strong",null,{"children":"One Window Portrait Lighting: A Quiet Setup That Works"}]]}],["$","$L3","the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026",{"href":"/articles/the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026","children":[["$","img",null,{"src":"/media/articles/the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026/01-thumb.avif","alt":"Image 2: Best Anamorphic Lenses for iPhone Photography - 2. Moment Anamorphic T-Series 1.33x Mobile Lens (Best Value)","decoding":"async","height":"180","loading":"lazy","width":"260"}],["$","strong",null,{"children":"The Best Anamorphic Lenses for iPhone Photography and Video in 2026"}]]}],["$","$L3","viltrox-af-85mm-f-1-4-pro-fe-review-portrait-glass-that-punches-above-its-price",{"href":"/articles/viltrox-af-85mm-f-1-4-pro-fe-review-portrait-glass-that-punches-above-its-price","children":[["$","img",null,{"src":"/media/articles/viltrox-af-85mm-f-1-4-pro-fe-review-portrait-glass-that-punches-above-its-price/01-thumb.avif","alt":"Camera lens","decoding":"async","height":"180","loading":"lazy","width":"260"}],"$L1b"]}],"$L1c","$L1d","$L1e"]}]]}],"$L1f"]}]
-15:["$","div",null,{"className":"article-card-body","children":[["$","div",null,{"className":"article-card-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:36:04.626Z","children":"May 22, 2026"}],["$","span",null,{"className":"tag category-tag","children":"Gear"}]]}],["$","h3",null,{"children":"Peak Design Travel Tripod Review: The Most Innovative Tripod We've Ever Tested"}],["$","p",null,{"children":"Peak Design spent years secretly developing what may be their most ambitious product to date: a travel tripod redesigned entirely from the ground up. Instead..."}],null]}]
-16:["$","$L3","peak-design-everyday-backpack-v2-review-still-the-king-of-camera-bags-in-2025",{"className":"article-card","href":"/articles/peak-design-everyday-backpack-v2-review-still-the-king-of-camera-bags-in-2025","children":[["$","div",null,{"className":"article-card-image","children":["$","img",null,{"src":"/media/articles/peak-design-everyday-backpack-v2-review-still-the-king-of-camera-bags-in-2025/01-thumb.avif","alt":"mid","decoding":"async","height":"480","loading":"lazy","width":"720"}]}],["$","div",null,{"className":"article-card-body","children":[["$","div",null,{"className":"article-card-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:36:03.932Z","children":"May 22, 2026"}],["$","span",null,{"className":"tag category-tag","children":"Gear"}]]}],["$","h3",null,{"children":"Peak Design Everyday Backpack V2 Review: Still the King of Camera Bags in 2025"}],["$","p",null,{"children":"The Peak Design Everyday Backpack has been the gold standard of camera bags since its 2015 Kickstarter debut. The V2 iteration refines the formula with impro..."}],null]}]]}]
-17:["$","$L3","peak-design-capture-clip-v3-review-the-best-way-to-carry-a-camera-on-your-backpack",{"className":"article-card","href":"/articles/peak-design-capture-clip-v3-review-the-best-way-to-carry-a-camera-on-your-backpack","children":[["$","div",null,{"className":"article-card-image","children":["$","img",null,{"src":"/media/articles/peak-design-capture-clip-v3-review-the-best-way-to-carry-a-camera-on-your-backpack/01-thumb.avif","alt":"n182_w1150","decoding":"async","height":"480","loading":"lazy","width":"720"}]}],["$","div",null,{"className":"article-card-body","children":[["$","div",null,{"className":"article-card-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:36:03.244Z","children":"May 22, 2026"}],["$","span",null,{"className":"tag category-tag","children":"Camera Reviews"}]]}],["$","h3",null,{"children":"Peak Design Capture Clip V3 Review: The Best Way to Carry a Camera on Your Backpack"}],["$","p",null,{"children":"The Peak Design Capture Clip solves a problem every outdoor photographer knows: how to keep a camera accessible without the neck strain of a strap or the inc..."}],null]}]]}]
-1a:null
-1b:["$","strong",null,{"children":"Viltrox AF 85mm f/1.4 Pro FE Review: Portrait Glass That Punches Above Its Price"}]
-1c:["$","$L3","sigma-24-70mm-f-2-8-dg-dn-ii-review-90-of-g-master-quality-at-half-the-price",{"href":"/articles/sigma-24-70mm-f-2-8-dg-dn-ii-review-90-of-g-master-quality-at-half-the-price","children":[["$","img",null,{"src":"/media/articles/sigma-24-70mm-f-2-8-dg-dn-ii-review-90-of-g-master-quality-at-half-the-price/01-thumb.avif","alt":"Camera lens","decoding":"async","height":"180","loading":"lazy","width":"260"}],["$","strong",null,{"children":"Sigma 24-70mm f/2.8 DG DN II Review: 90% of G-Master Quality at Half the Price"}]]}]
-1d:["$","$L3","how-to-choose-your-first-prime-lens-without-wasting-money",{"href":"/articles/how-to-choose-your-first-prime-lens-without-wasting-money","children":[["$","img",null,{"src":"/media/articles/canons-answer-to-the-sony-fx3-a-hands-on-canon-c50-review/02-thumb.avif","alt":"Portrait session with camera and model in studio","decoding":"async","height":"180","loading":"lazy","width":"260"}],["$","strong",null,{"children":"How to Choose Your First Prime Lens Without Wasting Money"}]]}]
-1e:["$","$L3","shimoda-sidecountry-backpack-review-modular-adventure-camera-bag",{"href":"/articles/shimoda-sidecountry-backpack-review-modular-adventure-camera-bag","children":[["$","img",null,{"src":"/media/articles/shimoda-sidecountry-backpack-review-modular-adventure-camera-bag/01-thumb.avif","alt":"mid","decoding":"async","height":"180","loading":"lazy","width":"260"}],["$","strong",null,{"children":"Shimoda Sidecountry Backpack Review: Modular Adventure Camera Bag"}]]}]
-1f:["$","section",null,{"className":"feature-block","children":[["$","div",null,{"className":"feature-block-heading","children":[["$","h2",null,{"children":"Featured Spotlights"}],["$","$L3",null,{"href":"/categories/interviews","children":"More >"}]]}],["$","div",null,{"className":"feature-list","children":[["$","$L3","inside-a-quiet-studio-practice-a-photographer-interview",{"href":"/articles/inside-a-quiet-studio-practice-a-photographer-interview","children":[["$","img",null,{"src":"/media/articles/canons-answer-to-the-sony-fx3-a-hands-on-canon-c50-review/02-thumb.avif","alt":"Photographer directing a studio portrait session","decoding":"async","height":"180","loading":"lazy","width":"260"}],["$","strong",null,{"children":"Inside a Quiet Studio Practice: A Photographer Interview"}]]}]]}]]}]
+4:T35c1,Taking your mirrorless camera underwater opens up a completely different world of photography — from vibrant coral reefs and schooling fish to dramatic surf shots and moody freshwater scenes. But doing so safely requires the right gear. An underwater housing is the single most important accessory for any photographer who wants to shoot beneath the surface, and choosing the wrong one can mean the difference between stunning images and a very expensive repair bill.
+
+In this guide, we'll walk through five of the best underwater housings for mirrorless cameras available right now, covering options at different price points — from professional-grade rigs to budget-friendly alternatives. We'll also break down the key factors to consider before you buy.
+
+---
+
+## What Is an Underwater Housing and Why Do You Need One?
+
+An underwater housing is a sealed, watertight enclosure designed to protect your camera from water, sand, pressure, and saltwater corrosion. Unlike a simple waterproof bag, a proper housing is engineered to let you operate every critical camera function — shutter, aperture, zoom, and more — through mechanical controls built into the housing itself.
+
+Most quality housings are constructed from aluminum or polycarbonate, and they're rated to specific depths. Some can handle a casual snorkeling trip at 15 feet; others are built for serious scuba diving at 200 feet or more. Many also feature interchangeable lens ports, accessory mounts for strobes and video lights, and vacuum systems that verify the seal before you enter the water.
+
+Prices vary dramatically. Entry-level options can cost under $100, while professional-grade housings often exceed $2,000. The right choice depends on how deep you plan to dive, how often you'll shoot underwater, and how much you're willing to invest in protecting your gear.
+
+---
+
+## The 5 Best Underwater Housings for Mirrorless Cameras
+
+### 1. Ikelite Deluxe 200DL — Best Overall
+
+**Pros:** Outstanding depth rating · Wide camera compatibility · Interchangeable DL port system
+**Cons:** Premium price tag
+
+The Ikelite Deluxe 200DL is widely regarded as one of the finest underwater housings on the market, and it's easy to see why. Available in variants for Sony, Nikon, and other major mirrorless brands, this housing is built to perform at a serious level.
+
+Its standout feature is a depth rating of 200 feet — more than enough for recreational scuba diving and most professional underwater assignments. The frame is robust and confidence-inspiring, yet the ergonomics are surprisingly comfortable. Built-in handles, responsive mechanical controls, and the modular DL lens port system make it a pleasure to use session after session.
+
+Every purchase includes trigger extensions, spare O-rings, a vacuum pump and gauge, and a USB-C charging and data transfer bulkhead. It's a complete, professional-ready package. The only real barrier is the price, which sits north of $2,000 — a significant investment, but one that serious underwater photographers will find well justified.
+
+---
+
+### 2. AQUATECH EDGE Pro — Best Design
+
+![Image 2: Top Underwater Housings for Mirrorless Cameras 2](/media/articles/the-best-underwater-housings-for-mirrorless-cameras-in-2026/01.avif)
+
+**Pros:** Slim, lightweight profile · Tactile controls · Quick attachment and removal
+**Cons:** Limited depth rating of approximately 33 feet
+
+If you've ever wrestled with a bulky underwater housing that felt more like a diving bell than a camera accessory, the AQUATECH EDGE Pro will come as a genuine relief. Compatible with select Sony mirrorless bodies including the a7R IV, a1, a7S III, and a9 II, this housing is impressively compact and lightweight.
+
+It feels like a natural extension of the camera rather than a separate piece of equipment, which makes a real difference when you're trying to compose shots in moving water. The tactile push-button controls are precise and easy to operate even with gloves on, and the hard-anodized aluminum and stainless steel construction handles demanding saltwater environments without complaint.
+
+The trade-off is depth. At around 33 feet, this housing is best suited to snorkeling, shallow reef photography, and surf work rather than deep-water diving. But for those use cases, it's one of the most enjoyable housings to work with.
+
+---
+
+### 3. Backscatter UH-EM10IV Underwater Octo Housing — Best Ergonomics
+
+**Pros:** Excellent ergonomics · Built-in moisture alarm · RC flash trigger included · Competitive pricing
+**Cons:** Distinctive marine-pattern aesthetic may not appeal to everyone
+
+The Backscatter UH-EM10IV earns its place on this list for three reasons: how it feels in the hands, what it includes, and what it costs.
+
+Ergonomically, this housing is one of the most satisfying to use. Every control feels solid and deliberate, giving you confident access to your camera's shutter, zoom, and other functions without fumbling. It's the kind of housing that disappears from your mind while you're shooting — which is exactly what you want.
+
+Feature-wise, it punches well above its price. The included RC flash trigger is a genuine bonus for anyone shooting with external strobes, and the vacuum system ensures a reliable seal every time. The built-in moisture alarm is a particularly smart addition — if water somehow begins to enter the housing, you'll know immediately and can surface before any damage occurs.
+
+Pricing is notably more accessible than the Ikelite or AQUATECH options, making it a strong choice for photographers who want capable performance without a four-figure outlay. The only divisive element is the housing's marine-themed design pattern, which is more playful than the clean, utilitarian look of competing models.
+
+---
+
+### 4. AOI Underwater Housing — Most Durable
+
+![Image 4: Top Underwater Housings for Mirrorless Cameras 4](/media/articles/the-best-underwater-housings-for-mirrorless-cameras-in-2026/02.avif)
+
+**Pros:** High-grade polycarbonate construction · 148-foot depth rating · Integrated vacuum and water detection
+**Cons:** Compatible with a limited range of camera models
+
+For photographers who prioritize protection above all else, the AOI Underwater Housing is worth serious consideration. Designed for OM SYSTEM OM-1 and OM-1 Mark II bodies, this housing is built from high-grade polycarbonate that resists saltwater corrosion and physical impact with ease.
+
+The integrated vacuum system and water detection feature work together to give you real peace of mind before and during a dive. Knowing that your housing will alert you to any breach — rather than discovering it after the fact — is invaluable when you're 100+ feet below the surface. With a depth rating of 148 feet, this housing is well suited to recreational and semi-professional diving.
+
+The main limitation is compatibility. Unlike some housings that span multiple brands and models, the AOI is tailored to a specific selection of cameras. If your body is on the list, it's an excellent choice; if not, you'll need to look elsewhere.
+
+---
+
+### 5. DiCAPac Waterproof Case — Best Budget Option
+
+**Pros:** Very affordable · Broad camera compatibility · UV-coated lens port · Includes neck strap
+**Cons:** Shallow depth rating of 16.4 feet · Basic design and functionality
+
+Not everyone needs a $2,000 professional housing. If you're a casual shooter who wants to capture some underwater moments on a snorkeling vacation or at the beach, the DiCAPac Waterproof Case offers a practical, budget-friendly entry point.
+
+Constructed from a combination of PVC, TPU, ABS, polycarbonate, and silicone, this case keeps water and sand out while allowing full access to your camera's controls. The UV-coated lens port helps maintain image clarity and protects against lens distortion, and the included neck strap makes it easy to carry between shots.
+
+The depth limit of 16.4 feet means this is strictly a shallow-water option — think snorkeling, pool photography, or beach surf shots rather than scuba diving. It's also less refined than a dedicated housing, and you may find the controls slightly awkward to operate at first. But for the price, it delivers solid value and a reasonable level of protection for casual use.
+
+---
+
+## How to Choose the Right Underwater Housing
+
+### Depth Rating
+This is the most critical spec to check. If you're a recreational diver, you'll want a housing rated to at least 100 feet. Snorkelers and surface swimmers can get away with much shallower ratings. Never push a housing beyond its stated depth limit — the consequences can be catastrophic for your camera.
+
+### Build Quality and Sealing
+Look for housings with robust O-ring seals, vacuum systems, and moisture detection. These features aren't just nice to have — they're your last line of defense against water damage. High-grade aluminum and polycarbonate are the materials of choice for serious underwater work.
+
+### Camera Compatibility
+Always verify that a housing is specifically designed for your camera model. Many manufacturers offer model-specific variants, and using the wrong housing can compromise the seal or prevent access to key controls. Interchangeable lens port systems are a major advantage if you plan to shoot with multiple lenses.
+
+### Ergonomics and Controls
+You'll often be shooting in challenging conditions — strong currents, low visibility, cold water. A housing with well-positioned, tactile controls makes a significant difference to your shooting experience and the quality of your results.
+
+---
+
+## Practical Tips for Underwater Housing Photography
+
+- **Always test your housing in a bucket of fresh water before your first dive.** Check for leaks and confirm all controls work as expected.
+- **Rinse your housing thoroughly in fresh water after every saltwater session** to prevent corrosion and extend its lifespan.
+- **Use a vacuum system before every dive**, not just the first time. Seals can degrade over time.
+- **Carry spare O-rings** and inspect them before each use. A damaged O-ring is the most common cause of housing floods.
+- **Shoot in RAW format** when possible — underwater images often need significant color correction in post, and RAW files give you far more latitude.
+- **Add a red filter or use a strobe** to compensate for the loss of warm tones at depth. Water absorbs red and orange wavelengths quickly, leaving images with a blue-green cast.
+- **Move slowly and steadily** underwater to avoid stirring up sediment and to give marine life time to settle around you.
+
+---
+
+## Conclusion
+
+Underwater photography is one of the most rewarding and technically demanding disciplines in the field — and having the right housing makes all the difference. Whether you're a professional marine photographer or a curious traveler who wants to document a coral reef, there's an option on this list to suit your needs and budget.
+
+The Ikelite Deluxe 200DL remains the top pick for serious underwater work, offering unmatched depth performance and a complete feature set. The AQUATECH EDGE Pro is the go-to choice for photographers who value a slim, elegant design, while the Backscatter UH-EM10IV strikes an excellent balance between features, ergonomics, and price. For those on a tight budget, the DiCAPac Waterproof Case offers a practical starting point for shallow-water shooting.
+
+Whatever you choose, invest in quality, maintain your gear carefully, and take the time to learn your housing before you take it on a serious dive.
+
+---
+
+## Frequently Asked Questions
+
+**How deep can underwater camera housings go?**
+It varies significantly by model. Entry-level cases may only be rated to 15–20 feet, while professional housings like the Ikelite Deluxe 200DL can handle depths of up to 200 feet. Always check the manufacturer's depth rating before use, and never exceed it — water pressure increases rapidly with depth, and exceeding the rated limit risks flooding the housing.
+
+**Do I need a special lens for underwater photography?**
+Not necessarily, but lens choice matters. Wide-angle lenses are popular for reef and marine life photography because they allow you to get close to subjects while still capturing the surrounding environment. Many professional housings feature interchangeable port systems that accommodate different lenses and lens types.
+
+**What causes underwater housings to flood, and how can I prevent it?**
+The most common cause is a damaged or improperly seated O-ring seal. Always inspect O-rings before each dive, replace them if they show any signs of wear or cracking, and apply a thin layer of silicone grease to keep them supple. Using a vacuum system to verify the seal before entering the water is the most reliable way to prevent flooding.
+
+**Can I use an underwater housing for freshwater photography as well as saltwater?**
+Yes — underwater housings work in both freshwater and saltwater environments. However, saltwater is significantly more corrosive, so it's especially important to rinse your housing thoroughly in fresh water after every ocean session. Freshwater use is generally gentler on the housing's components.
+
+**Is an underwater housing worth the investment for casual photographers?**
+It depends on how often you plan to shoot underwater. If you're a regular diver or snorkeler who wants to document your experiences, even a mid-range housing will pay for itself quickly in terms of the shots it enables. For very occasional use, a budget option like the DiCAPac case may be sufficient. Either way, the images you can capture beneath the surface are unlike anything you can achieve on land.5:T3d6d,The iPhone has come a long way as a filmmaking tool. Modern models shoot stunning 4K video, handle low light remarkably well, and fit comfortably in your pocket. But if you want to push your iPhone footage into genuinely cinematic territory — the kind of wide, immersive look you see in Hollywood productions — there's one accessory that makes all the difference: an anamorphic lens.
+
+In this guide, we'll cover the best anamorphic lenses for iPhone available right now, explain how they work, and help you figure out which one is the right fit for your shooting style and budget.
+
+---
+
+## What Is an Anamorphic Lens and Why Use One on an iPhone?
+
+An anamorphic lens contains additional optical elements that horizontally compress, or "squeeze," the image as it's captured. When that image is de-squeezed in playback or post-processing, the result is an ultra-wide aspect ratio that's far broader than what a standard lens can produce.
+
+This is the same optical technology used in professional cinema production. Films like *Alien*, *Inception*, and countless other Hollywood titles were shot with anamorphic lenses, and the look they produce is immediately recognizable — wide, expansive frames, oval-shaped bokeh, and those distinctive horizontal lens flares that catch the light in a way no standard lens can replicate.
+
+When you attach an anamorphic lens to your iPhone, you're bringing that same cinematic quality to a device that already fits in your pocket. The result is footage that looks far more intentional and polished than anything the native camera app can produce on its own — without spending hours in post-production trying to fake the effect.
+
+---
+
+## The 5 Best Anamorphic Lenses for iPhone
+
+### 1. Moment T-Series 1.55x Anamorphic Lens — Best Overall
+
+**Pros:** Ultra-wide 2.76:1 cinematic output · Sharp image quality with minimal distortion · Aerospace-grade metal build · Beautiful anamorphic flares and bokeh · Fast T-Series mounting system
+**Cons:** Works best with the Moment app · Requires a compatible case or mount
+
+The Moment T-Series 1.55x is the standout choice for iPhone anamorphic photography, and it's not particularly close. The 1.55x squeeze factor produces a dramatic 2.76:1 aspect ratio — the classic Cinemascope look — giving your footage an unmistakably cinematic quality straight out of the camera.
+
+Image quality is excellent across the board. Sharpness is impressive, bokeh is smooth and pleasing, and there's no frustrating vignetting or color fringing to deal with in post. The horizontal lens flares that appear when shooting into light sources add a genuine Hollywood touch that's difficult to replicate any other way.
+
+The build quality matches the optical performance. The lens is machined from aerospace-grade metal, making it one of the more durable iPhone accessories you can buy — a real advantage for photographers who shoot outdoors in variable conditions. Mounting is quick and secure via Moment's T-Series twist-lock system, which works with both official Moment cases and universal mounting adapters.
+
+The one caveat worth noting: to get the best results, you'll want to shoot using the Moment app rather than the default iPhone Camera app, as it handles anamorphic de-squeezing natively.
+
+---
+
+### 2. Moment T-Series 1.33x Anamorphic Lens — Best Value
+
+![Image 2: Best Anamorphic Lenses for iPhone Photography - 2. Moment Anamorphic T-Series 1.33x Mobile Lens (Best Value)](/media/articles/the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026/01.avif)
+
+**Pros:** Excellent value · Classic 2.40:1 aspect ratio · Stylish blue lens flare · Durable metal construction · Includes accessories and two-year warranty
+**Cons:** Less dramatic than the 1.55x squeeze
+
+If the 1.55x feels like more lens than you need, the Moment T-Series 1.33x offers a slightly more restrained cinematic look at a friendlier price point — and it's still an outstanding performer.
+
+The 1.33x squeeze produces a 2.40:1 (21:9) aspect ratio for video and 1.78:1 (16:9) for stills. That's the same widescreen ratio used across much of modern cinema and streaming content, making it a natural fit for YouTube, short films, and social media content that needs to stand out. The look is a little less dramatic than 2.76:1, but it's also more versatile and easier to work with across different editing platforms.
+
+One of this lens's most distinctive characteristics is its blue lens flare, which gives footage a cool, slightly vintage quality reminiscent of '60s and '70s filmmaking. It's a subtle but effective touch that adds character without overwhelming the image.
+
+Every purchase includes a lens cap, hex tool, and microfiber carrying bag, along with a two-year manufacturer's warranty. It's also compatible with Android devices via the T-Series interface, making it a flexible option if you shoot across multiple platforms.
+
+---
+
+### 3. ShiftCam LensUltra 1.55x Anamorphic Lens — Best for Cinematic Quality
+
+**Pros:** Ultra-wide 2.76:1 video aspect ratio · Exceptional sharpness and color accuracy · Fluorite glass elements reduce color fringing · Stunning film-style flares and bokeh · Ideal for serious video creators
+**Cons:** Higher price point · May be overkill for casual shooters
+
+For photographers and filmmakers who refuse to compromise on optical quality, the ShiftCam LensUltra 1.55x is in a class of its own. This lens is built around premium fluorite glass elements — a material more commonly found in high-end cinema lenses — which dramatically reduces chromatic aberration and color fringing while boosting overall color accuracy and contrast.
+
+The results speak for themselves. Footage captured with this lens has a richness and depth that's genuinely difficult to achieve with smartphone glass alone. Colors pop with natural vibrancy, bokeh is smooth and organic, and the anamorphic lens flares are beautifully rendered — the kind of effect that used to require a full cinema rig to achieve.
+
+At 1.55x, the squeeze factor delivers a 2.76:1 aspect ratio for video and 2.35:1 for stills, both of which are standard cinematic formats. If you're producing short films, music videos, or any content where visual quality is a priority, this lens is worth the premium.
+
+---
+
+### 4. Beastgrip Pro Series 1.33x Anamorphic Lens MK2 — Most Flexible
+
+![Image 4: Best Anamorphic Lenses for iPhone Photography - 4. Beastgrip Pro Series 1.33x Anamorphic Lens MK2 (Most Flexible)](/media/articles/the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026/02.avif)
+
+**Pros:** Pro-grade build quality · Sharp optics with minimal distortion · Compatible with filters and flare add-ons · Highly customizable · Works with iPhone and Android rigs
+**Cons:** Requires additional Beastgrip accessories to mount · Higher total cost when rig is included
+
+The Beastgrip Pro Series 1.33x MK2 is the choice for mobile filmmakers who want to build out a proper production rig around their iPhone. This isn't just a lens you clip on and forget — it's a modular component designed to integrate with a broader system of professional accessories.
+
+The optical performance is excellent. Professional-grade cylindrical glass elements and a high-end anti-reflective coating deliver sharp, clean images with minimal distortion, and the lens handles a wide range of lighting conditions with confidence. Where this lens really distinguishes itself, though, is in its flexibility. It accepts a variety of filters and lens flare add-ons, allowing you to dial in a specific look for each project rather than being locked into a single aesthetic.
+
+The trade-off is that you can't simply attach this lens directly to your iPhone. You'll need to invest in a compatible Beastgrip rig or cage, which adds to the overall cost. For serious mobile filmmakers who are already building out a rig setup, this is a natural fit. For casual shooters, the added complexity may not be worth it.
+
+---
+
+### 5. Freewell Pro Filmmaker Cine Pro Kit with 1.33x Anamorphic Lens — Best Complete Kit
+
+**Pros:** All-in-one filmmaking kit · Includes lens, ND filter, grip, and case · Excellent value compared to buying components separately · Available for multiple iPhone models
+**Cons:** High upfront price · Less modular than building your own kit
+
+If you're new to mobile filmmaking and want to get everything you need in a single purchase, the Freewell Pro Filmmaker Cine Pro Kit is a compelling option. Rather than sourcing a lens, a mount, a grip, and filters separately, this kit bundles everything together in a package designed to work seamlessly out of the box.
+
+The kit includes a 1.33x neutral flare anamorphic lens, a variable ND filter, a multifunction grip with Bluetooth remote, and a protective smartphone case — all matched to your specific iPhone model. The anamorphic lens itself delivers a wide aspect ratio, pleasing bokeh, and rich flares comparable to the Moment T-Series 1.33x, and it plays well with popular third-party camera and editing apps.
+
+The variable ND filter is a particularly useful inclusion. Controlling exposure in bright conditions is one of the trickier aspects of mobile filmmaking, and having a quality ND filter in the kit removes that headache immediately. For beginners and aspiring filmmakers who want a significant, immediate upgrade to their iPhone's capabilities, this kit delivers excellent value.
+
+---
+
+## How to Choose the Right Anamorphic Lens for Your iPhone
+
+### Squeeze Factor: 1.33x vs. 1.55x
+This is the most fundamental choice you'll make. A 1.33x lens produces a 2.40:1 aspect ratio — the standard widescreen format used across most modern cinema and streaming content. It's versatile, easy to work with in editing, and well-suited to YouTube and social media. A 1.55x lens goes wider still, producing a 2.76:1 Cinemascope-style ratio that's more dramatic and visually striking. If you're making short films or music videos where the cinematic look is the whole point, 1.55x is worth the extra challenge.
+
+### Build Quality and Optics
+The quality of the glass elements directly affects sharpness, color accuracy, and how well the lens performs in low light. Premium lenses use multi-coated glass or fluorite elements to reduce chromatic aberration and flaring. Metal bodies are more durable than plastic and better suited to regular outdoor use.
+
+### Mounting and Compatibility
+Check that any lens you're considering is compatible with your specific iPhone model before purchasing. Some lenses require proprietary mounts or cases, while others work with universal clip-on or thread-based systems. If you plan to build out a rig over time, choosing a lens that integrates with a broader accessory ecosystem — like the Moment T-Series or Beastgrip system — gives you more room to grow.
+
+### Camera App Support
+The default iPhone Camera app doesn't support anamorphic de-squeezing. You'll need a third-party app — such as the Moment app, Filmic Pro, or Mavis — to preview and record with the correct aspect ratio. Most quality anamorphic lenses have recommended app pairings, so check the manufacturer's guidance before you start shooting.
+
+---
+
+## Practical Tips for Shooting with an Anamorphic Lens on iPhone
+
+- **Always shoot in the app's anamorphic or de-squeeze mode** so you can preview the final framing in real time rather than guessing how the squeezed image will look after editing.
+- **Keep your horizon level.** The wide aspect ratio of anamorphic footage makes a crooked horizon far more noticeable than it would be in standard video.
+- **Use light sources creatively.** Anamorphic flares are one of the most distinctive features of this format — don't hide from them. Position lights, windows, or the sun at the edge of the frame to capture those beautiful horizontal streaks.
+- **Shoot in LOG or a flat color profile** if your app supports it. This gives you far more flexibility in color grading and helps the footage hold up better in post-production.
+- **Stabilize your shots.** The wide field of view amplifies camera shake. Use a gimbal, a grip, or at minimum brace your elbows against your body for handheld shots.
+- **Clean your lens before every shoot.** Fingerprints and smudges affect anamorphic lenses more visibly than standard lenses, particularly when shooting toward light sources.
+
+---
+
+## Conclusion
+
+An anamorphic lens is one of the most impactful upgrades you can make to your iPhone filmmaking setup. The difference in look and feel between standard iPhone footage and properly shot anamorphic footage is striking — wider, more immersive, and immediately more cinematic.
+
+For most users, the Moment T-Series lineup offers the best combination of optical quality, build durability, and ease of use. The 1.55x is the top pick for maximum cinematic impact, while the 1.33x is a more versatile everyday option. If optical quality is your absolute priority, the ShiftCam LensUltra 1.55x is worth the premium. For those who want to build a full mobile production rig, the Beastgrip Pro Series MK2 offers the most flexibility. And if you're just getting started and want everything in one box, the Freewell Cine Pro Kit is an excellent all-in-one solution.
+
+Whatever you choose, take the time to learn your lens, experiment with light, and explore what the anamorphic format can do — the results might surprise you.
+
+---
+
+## Frequently Asked Questions
+
+**Do I need a special app to use an anamorphic lens on my iPhone?**
+Yes. The native iPhone Camera app doesn't support anamorphic de-squeezing, so you'll need a third-party app to preview and record with the correct aspect ratio. Popular options include the Moment app, Filmic Pro, and Mavis. Most of these apps have a dedicated anamorphic or de-squeeze mode that you simply toggle on before shooting.
+
+**What's the difference between a 1.33x and a 1.55x anamorphic lens?**
+The number refers to the squeeze factor — how much the lens compresses the image horizontally. A 1.33x lens produces a 2.40:1 aspect ratio, which is the standard widescreen format used in most modern films and streaming content. A 1.55x lens goes wider, producing a 2.76:1 Cinemascope-style ratio that's more dramatic and visually striking. Neither is objectively better; the right choice depends on the look you're going for and how you plan to use the footage.
+
+**Can I use an anamorphic lens for iPhone photography as well as video?**
+Yes, anamorphic lenses work for both stills and video. For photos, the wide aspect ratio produces panoramic-style images with beautiful bokeh and distinctive flares. That said, anamorphic lenses are most commonly used for video, where the cinematic wide-format look has the greatest impact.
+
+**Are anamorphic lenses compatible with all iPhone models?**
+Compatibility varies by lens and manufacturer. Most brands offer versions designed for specific iPhone models or generations, and some require proprietary cases or mounts. Always check the manufacturer's compatibility list before purchasing to make sure the lens will work with your specific device.
+
+**Is an anamorphic lens worth it for casual iPhone users?**
+It depends on what you're trying to achieve. If you regularly shoot video and want a more cinematic look without investing in a dedicated camera, an anamorphic lens is a genuinely worthwhile upgrade. For casual snapshots or social media photos, the standard iPhone camera is more than sufficient. The sweet spot is for anyone who's serious about mobile filmmaking or content creation and wants their footage to stand out from the crowd.6:Tc54,The Shimoda Sidecountry is a lightweight, modular backpack system designed for adventure photographers who need quick camera access without sacrificing hiking comfort. With a detachable side-loading top loader, roll-top expansion, and a carrying system built for real terrain, it bridges the gap between camera bag and outdoor pack.
+
+---
+
+## Key Specs
+
+- Sizes: 28L and 32L
+- Top loader sizes: Small, Medium, Large (Medium included)
+- Laptop: Up to 16"
+- Material: Recycled Cordura nylon, PFAS-free
+- Aluminum frame with breathable air-mesh back panel
+- Vegan-friendly construction
+- Hidden AirTag sleeve
+
+---
+
+## Design & Modularity
+
+The standout feature is the side-loading top loader — Shimoda's first design built exclusively around side access. Swing the bag under your arm, unzip, and grab your camera without setting the pack down. The top loader detaches entirely and converts to a standalone shoulder bag or waist pack for lighter excursions.
+
+The roll-top adds capacity for a drone, GoPro, helmet, or extra layers. Inside, bright white interiors make it easy to spot small items like batteries and memory cards at a glance.
+
+---
+
+## Comfort & Carrying
+
+![mid](/media/articles/shimoda-sidecountry-backpack-review-modular-adventure-camera-bag/01.avif)
+
+The padded back panel with breathable air mesh and the aluminum frame distribute weight effectively. Load lifter straps transfer weight from shoulders to hips — though taller users may find the torso length slightly short for optimal lift. The waist belt can be magnetically stowed for short walks and deployed for longer treks.
+
+Shoulder strap pockets are large enough for an iPhone Max. A raised camera clip mount prevents digging into your shoulder.
+
+---
+
+## Weather Protection
+
+Weather-resistant materials and a reinforced bottom handled rain, desert dust, and boat spray without issue during testing. The included rain cover adds an extra layer for downpours. The hidden AirTag pocket provides peace of mind during travel.
+
+---
+
+## Limitations
+
+- Tripod carry could be improved — the side pocket works but isn't ideal for larger tripods.
+- Side access is only available on one side.
+- Accessory pockets on the top loader become difficult to reach when mounted inside the bag.
+- The white interior will likely show dirt over time.
+
+---
+
+## Practical Tips
+
+- Choose the top loader size based on your most common gear setup — Small for a body+lens, Large for a full trinity.
+- The removable tote is surprisingly useful for errands at your destination.
+- Use the accessory straps on the front panel for snowshoes, a tripod, or bulky layers.
+
+---
+
+## FAQ
+
+**Q: Does the Shimoda Sidecountry have rear panel access?**
+No — it's designed exclusively for side access. For rear access, consider the Shimoda Action X series.
+
+**Q: Is it carry-on compatible?**
+Yes — the 28L and 32L both meet most airline carry-on dimensions.
+
+**Q: How does it compare to the Peak Design Outdoor Backpack?**
+The Shimoda offers better hiking-specific ergonomics and modularity. Peak Design's system is more versatile for urban-to-outdoor transitions but requires separate Camera Cubes for gear organization.7:T1260,![SEAT BAG OPTION IS A PADDED CAMERA BAG](/media/articles/peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested/01.avif)
+
+Peak Design spent years secretly developing what may be their most ambitious product to date: a travel tripod redesigned entirely from the ground up. Instead of slapping their logo on an existing design — a common shortcut in the tripod market — they reimagined every component from scratch. The result is genuinely unlike anything else on the market.
+
+---
+
+## At a Glance
+
+| Feature | Spec |
+|---|---|
+| Price | $599.95 (Carbon Fiber) / $349.95 (Aluminum) |
+| Max Height | 60" (152 cm) |
+| Min Height | 5.5" (10 cm) |
+| Compact Length | 15.5" (39 cm) |
+| Max Load | 20 lbs (9.1 kg) |
+| Weight (CF) | 2.81 lbs (1.27 kg) |
+
+---
+
+## Design & Build Quality
+
+The defining feature of this tripod is its space-saving leg design — there is essentially no wasted air between the legs or the head when collapsed. The carbon fiber version looks stunning and feels significantly stiffer than its aluminum counterpart.
+
+The build quality is exceptional. Materials and workmanship are superior to the generic knock-off brands that repackage the same basic tripod design. This is a product engineered from first principles.
+
+### Leg Locks
+
+The lever-lock design has five leg sections per leg — meaning four locks per leg. These are some of the stiffest, strongest legs we've ever encountered. The large hooked design makes them easy to operate, even in cold weather with gloves. An easy-access Allen key tightening screw is built in (the included key is hidden in a secret pocket on the tripod bag).
+
+### Ball Head
+
+The ball head is the most ingenious part. The center column itself is part of the head — they're one integrated component. When completely collapsed, the clamp slips down between the leg angle platform, completing the "zero empty space" design. The Arca-Swiss clamp is strong enough to hold a full-frame DSLR with a flagship f/2.8 zoom.
+
+One compromise: there's no dedicated panning knob, which may frustrate panorama photographers.
+
+---
+
+## Real-World Performance
+
+The tripod produces remarkably sharp images at slow shutter speeds. Despite its compact size, it's among the stiffest travel tripods available — holding cameras steady even with heavier telephoto lenses. The ball head allows precise composition, though locking it down requires slightly more attention than a traditional design.
+
+A clever hidden feature: a fold-out smartphone stand is concealed within the center column, secured magnetically when not in use.
+
+---
+
+## Carbon Fiber vs Aluminum
+
+Carbon fiber isn't just about weight savings (2.81 lbs vs 3.44 lbs). It's significantly stiffer, which translates to sharper images with heavier gear, especially in light wind. Carbon fiber also resists the "vibrato" that plagues aluminum tripods with long lenses, and feels warmer to the touch in cold conditions.
+
+For casual use with lightweight setups, the aluminum version at nearly half the price is an excellent choice. For demanding conditions or heavier glass, the carbon fiber model justifies its premium.
+
+---
+
+## Practical Tips
+
+- Remove the safety pins on the Arca-Swiss clamp with the included Allen key if you use third-party plates.
+- For maximum stability, avoid extending the center column fully — keep it as low as possible.
+- Practice the one-handed deployment motion before heading into the field; the unique leg design rewards familiarity.
+- The tripod fits in most water bottle pockets and side sleeves — ideal for one-bag travel.
+
+---
+
+## Verdict
+
+Simply put, this is the best compact travel tripod on the market for photographers who value space efficiency above all else. No other tripod is this low-profile while remaining this strong and tall. While ultralight hikers may prefer options in the ~2 lb range, most photographers traveling with a single tripod will find this to be their best choice.
+
+---
+
+## FAQ
+
+**Q: Does the Peak Design Travel Tripod include a tripod bag?**
+Yes — a padded bag is included, with a hidden pocket containing the Allen key.
+
+**Q: Can I use the tripod with non-Peak Design plates?**
+Yes. The clamp accepts standard Arca-Swiss plates. Remove the safety pins with the included Allen key for full compatibility.
+
+**Q: Is the smartphone holder built into the tripod?**
+Yes — it's magnetically stored inside the center column. Twist the hook at the base to deploy it.
+
+**Q: How does this compare to the Peak Design Travel Tripod in terms of height for tall users?**
+At 60" max height, users over 6'2" will need to stoop slightly for the viewfinder — consistent with most travel tripods. An articulated LCD helps compensate.8:Tbd9,The Peak Design Everyday Backpack has been the gold standard of camera bags since its 2015 Kickstarter debut. The V2 iteration refines the formula with improved shoulder straps, a stronger MagLatch system, and subtle quality-of-life upgrades that — for most users — justify the investment.
+
+---
+
+## Key Specs (20L)
+
+- Capacity: 17L min / 20L max (expandable)
+- Weight: 2.01 kg / 4.43 lbs (with dividers)
+- Laptop: Up to 16" MacBook Pro
+- Tablet: Up to 12.9" iPad Pro
+- Material: 400D recycled nylon canvas, weatherproof
+- 3 FlexFold dividers included
+
+---
+
+## What's New in V2
+
+**Improved MagLatch:** The magnetic top latch now holds more strongly — bags packed to maximum capacity no longer pop open unexpectedly.
+
+**Redesigned shoulder straps:** More ergonomic padding, better axial pivoting, and magnetic holders that keep straps tidy when stowing.
+
+**Simplified interior pockets:** Fewer but larger organizer pockets replace the V1's multi-compartment approach. Some users will miss the granular organization; others will appreciate the cleaner layout.
+
+**Waist strap removed:** Peak Design now sells this separately — a disappointment for photographers who relied on it for hiking.
+
+---
+
+## Real-World Versatility
+
+![mid](/media/articles/peak-design-everyday-backpack-v2-review-still-the-king-of-camera-bags-in-2025/01.avif)
+
+The FlexFold dividers remain the most intuitive camera bag organization system on the market. In one configuration, you can carry a DSLR with 24-70mm f/2.8, a flash, chargers, laptop, and tablet. Reconfigure in 30 seconds for a DJI Mavic drone plus accessories. Dump the dividers for a day pack. This is truly a one-bag solution.
+
+Side access panels on both sides let you swing the bag around and grab your camera without setting it down — a feature that becomes essential once you've used it.
+
+---
+
+## Alternatives
+
+**Peak Design Everyday Zip:** Simpler, lighter, cheaper. Loses the MagLatch and side access panels but keeps the FlexFold system.
+
+**Nomatic McKinnon Camera Pack:** Larger (35L), heavier, and tougher. Better for multi-day adventures but overkill for daily carry.
+
+---
+
+## Verdict
+
+If you don't already own a V1, the V2 is an easy recommendation — it's the most versatile, thoughtfully designed camera bag in its class. Existing V1 owners face a harder decision: the upgrades are genuine but incremental. For anyone seeking a bag that transitions seamlessly from office commute to weekend shoot to international travel, the Peak Design Everyday Backpack V2 remains the benchmark.
+
+---
+
+## FAQ
+
+**Q: Does the 20L fit a 16" laptop?**
+Yes — the 20L model holds up to a 15/16" MacBook Pro. The 30L model accommodates most 16" laptops.
+
+**Q: Is the V2 compatible with Peak Design Camera Cubes?**
+Yes — Camera Cubes integrate with the FlexFold divider system for additional organization.
+
+**Q: How weather-resistant is the Everyday Backpack?**
+The 400D nylon canvas with DWR coating handles rain confidently. The bag is not submersible but will protect gear through downpours.9:Tbcd,![n182_w1150](/media/articles/peak-design-capture-clip-v3-review-the-best-way-to-carry-a-camera-on-your-backpack/01.avif)
+
+The Peak Design Capture Clip solves a problem every outdoor photographer knows: how to keep a camera accessible without the neck strain of a strap or the inconvenience of stopping to unpack it. Attach it to any backpack strap or belt, and your camera is always at hand — secure, stable, and ready in seconds.
+
+---
+
+## Key Specs
+
+- Weight: 3 oz (84g) clip + 0.5 oz (14g) plate
+- Material: Weatherproof, rust-resistant aluminum
+- Load capacity: 200+ lbs (90+ kg)
+- Arca-Swiss compatible plate with 4-way entry
+- Safety lock on quick-release button
+- Fits straps up to 2.5-3" wide, 0.87" thick
+
+---
+
+## Installation
+
+The Capture Clip uses either thumb screws (best for belts and thin straps) or hex screws (needed for thicker, padded backpack straps). Installation takes minutes, though wide or rigid straps may require pinching the foam to squeeze the clip on. Once mounted, the clip stays put — we never felt any concern about security, even on rugged trails.
+
+---
+
+## Real-World Use
+
+Getting the camera in and out becomes intuitive with practice. The 4-way entry plate means there's no wrong orientation — slide the camera in from any direction until you hear the click. For one-handed operation, face the quick-release button inward.
+
+A bonus: the Capture Clip on your belt doubles as a stable lens-changing platform. Mount the camera vertically ("sideways"), and it holds perfectly in place while you swap glass.
+
+---
+
+## Accessories
+
+**Pro Pad:** Adds stability for heavier setups — recommended for DSLRs with pro zooms.
+
+**Lens Kit:** Lets you carry spare lenses on your belt using the same clip system.
+
+**Bino Kit:** Mounts binoculars for wildlife observation and hunting.
+
+---
+
+## Limitations
+
+The standard Arca-Swiss plate may not match your existing tripod plate — you'll need to carry the included hex wrench for swaps. Very thick or rigid backpack straps (especially multi-day hiking packs) were a tight fit even with the hex screws. Cameras remain exposed to the elements, so this isn't ideal for heavy rain without a cover.
+
+---
+
+## Practical Tips
+
+- Start with two hands until the motion becomes muscle memory; then transition to one-handed operation.
+- For smaller primes, mount the camera vertically so the weight hangs downward for better stability.
+- If your tripod uses a different plate system, leave the Capture Clip plate on permanently and use an adapter for the tripod.
+
+---
+
+## FAQ
+
+**Q: Can the Capture Clip hold a heavy DSLR with a 70-200mm lens?**
+Yes — it's rated for 200+ lbs. However, the Pro Pad accessory significantly improves comfort with heavier setups.
+
+**Q: Does it work with all tripod plates?**
+The standard plate is Arca-Swiss compatible. Peak Design also sells a dual plate compatible with Manfrotto RC2.
+
+**Q: Will it scratch my camera?**
+The rubberized backplate prevents scuffing. The metal clip contacts only the plate, not the camera body.a:Tcaf,![Camera equipment at Triggar VR booth at SVVR 2015 (closeup)](/media/articles/sony-a6400-review-lightning-fast-autofocus-in-a-compact-body/01.avif)
+
+The Sony a6400 occupies an interesting place in the mirrorless camera landscape — it's small enough to carry everywhere, yet its autofocus system rivals cameras costing significantly more. We tested it shooting a wedding, studio portraits, and daily family life over two weeks to see where it shines and where it stumbles.
+
+---
+
+## Key Specs
+
+- 24.2 MP APS-C sensor
+- 425 phase-detection + 425 contrast-detection AF points
+- Real-time Eye AF (always active)
+- 11 fps continuous shooting with AF tracking
+- 4K video (no crop)
+- 180° tilting touchscreen
+- Weather-sealed body
+- 0.02-second AF acquisition
+
+---
+
+## Autofocus — The Main Event
+
+Sony's AF system is light years ahead of most competitors. Real-time Eye AF is always active — the camera continuously locks onto eyes without you needing to press a separate button. Real-time tracking follows subjects tenaciously across the frame. For a camera at this price point, the AF performance is genuinely remarkable.
+
+---
+
+## Where It Struggles
+
+**Low light:** ISO above 2000 introduces noticeable noise. The dynamic range, while decent, can't match full-frame bodies. If you shoot weddings or indoor events frequently, this camera will feel limiting.
+
+**Touchscreen:** Calling it a "touchscreen" is generous. Responsiveness is slow, and functionality is limited. Don't expect iPhone-level interaction.
+
+**Menu system:** Sony's menu remains overwhelming. You'll need to set up the custom menu to make daily operation bearable.
+
+**No IBIS:** The lack of in-body stabilization is a real drawback for video shooters and low-light stills work.
+
+---
+
+## Image Quality
+
+With fast glass, the a6400 produces excellent results. The kit lens (16-50mm f/3.5-5.6) is serviceable but limiting — invest in a prime like the Sony 35mm f/1.8 OSS or the compact FE 28mm f/2 to unlock the camera's potential. Colors are pleasing, and 24 megapixels provides ample detail for prints and cropping.
+
+---
+
+## Who Should Buy It
+
+This is an ideal travel, family, and everyday camera — small enough to throw in a bag, with autofocus that can keep up with kids and candid moments. For professional work (especially weddings or low-light events), we recommend stepping up to a full-frame Sony body.
+
+---
+
+## Practical Tips
+
+- Set up the custom My Menu immediately — it will save you hours of frustration navigating Sony's default interface.
+- Invest in a fast prime lens. The body is capable of much more than the kit lens reveals.
+- For video, consider a small external mic — the flip-up screen is blocked by most hot-shoe microphones without a rig.
+
+---
+
+## FAQ
+
+**Q: Is the Sony a6400 good for video?**
+It shoots excellent 4K video with no crop, but lacks in-body stabilization and a headphone jack. A gimbal or stabilized lens is recommended for handheld work.
+
+**Q: Does the a6400 have weather sealing?**
+Yes — it's weather-sealed against dust and moisture, though not fully waterproof.
+
+**Q: What lenses should I buy with the Sony a6400?**
+The Sony 35mm f/1.8 OSS is a great all-around prime. For travel, the compact FE 28mm f/2 is an excellent pairing.b:T90a,![DSLR Photography Camera](/media/articles/gopro-hero-13-review-magnetic-mounts-make-the-difference/01.avif)
+
+After a year of testing — mountain biking, skiing, hiking, sailing, and commercial B-camera duty — the GoPro Hero 13 earns its place as the best action camera GoPro has made. The killer feature? Magnetic mounts that eliminate fiddling with screws in the cold.
+
+---
+
+## Key Specs
+
+- 27MP sensor, 5.3K 60p / 4K 120p video
+- HyperSmooth 6.0 stabilization
+- Waterproof to 33ft (10m) without housing
+- Magnetic mounting + classic tabs retained
+- Voice control, GPS overlays, scheduled capture
+- Optional Macro Lens Mod (focus from 4")
+- Weight: 153g / 5.4 oz
+
+---
+
+## What's New & Improved
+
+The magnetic mounting system is transformative. Snap into place and spring-loaded tabs lock securely — no more frozen-finger screw struggles on ski slopes. Quick record (press one button to power on and start recording) captures moments without sifting through hours of dead footage.
+
+The 27MP sensor delivers sharp, vibrant images in good light. Log video recording allows matching GoPro footage to mirrorless cameras in post. The new Macro Lens Mod brings adjustable focus from 4 inches — a first for GoPro, enabling creative close-up shots with focus peaking confirmation.
+
+Stabilization is gimbal-smooth, even during jarring mountain bike descents. Automatic cloud backup via Wi-Fi while charging simplifies workflow — footage is ready to review when you are.
+
+---
+
+## Limitations
+
+Low-light performance is improved but still grainy compared to larger sensors. Battery life in 5.3K runs 1-1.5 hours. The front screen is small for framing in bright sun. Zoom remains limited.
+
+---
+
+## Practical Tips
+
+- Enable quick record for action sports — it saves battery and storage by recording only when it matters.
+- Turn down in-camera sharpening and shoot log/flat for the best video results.
+- The magnetic mount system alone justifies upgrading from the Hero 11 or 12.
+
+---
+
+## FAQ
+
+**Q: Does the Hero 13 support live streaming?**
+Yes — over Wi-Fi with good quality.
+
+**Q: Should I upgrade from the Hero 12?**
+If magnetic mounts and the Macro Lens Mod appeal to you, yes. Otherwise, the Hero 12 remains capable.
+
+**Q: Can I use old GoPro mounts?**
+Yes — classic tabs remain, so all existing mounts work.0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"site-shell","children":[["$","$L2",null,{}],["$","$L3",null,{"articles":[{"slug":"the-best-underwater-housings-for-mirrorless-cameras-in-2026","fileSlug":"The Best Underwater Housings for Mirrorless Cameras in 2026","title":"The Best Underwater Housings for Mirrorless Cameras in 2026","description":"Taking your mirrorless camera underwater opens up a completely different world of photography — from vibrant coral reefs and schooling fish to dramatic surf...","thumbnailSrc":"/media/articles/the-best-underwater-housings-for-mirrorless-cameras-in-2026/01-thumb.avif","thumbnailAlt":"Image 2: Top Underwater Housings for Mirrorless Cameras 2","date":"2026-05-22T04:46:41.475Z","formattedDate":"May 22, 2026","category":"Camera Reviews","categorySlug":"camera-reviews","tags":[],"hero":true,"heroOrder":1,"readingTime":10,"content":"$4"},{"slug":"the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026","fileSlug":"The Best Anamorphic Lenses for iPhone Photography and Video in 2026","title":"The Best Anamorphic Lenses for iPhone Photography and Video in 2026","description":"The iPhone has come a long way as a filmmaking tool. Modern models shoot stunning 4K video, handle low light remarkably well, and fit comfortably in your poc...","thumbnailSrc":"/media/articles/the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026/01-thumb.avif","thumbnailAlt":"Image 2: Best Anamorphic Lenses for iPhone Photography - 2. Moment Anamorphic T-Series 1.33x Mobile Lens (Best Value)","date":"2026-05-22T04:46:40.788Z","formattedDate":"May 22, 2026","category":"Lenses","categorySlug":"lenses","tags":[],"hero":true,"heroOrder":2,"readingTime":12,"content":"$5"},{"slug":"shimoda-sidecountry-backpack-review-modular-adventure-camera-bag","fileSlug":"Shimoda Sidecountry Backpack Review Modular Adventure Camera Bag","title":"Shimoda Sidecountry Backpack Review: Modular Adventure Camera Bag","description":"The Shimoda Sidecountry is a lightweight, modular backpack system designed for adventure photographers who need quick camera access without sacrificing hikin...","thumbnailSrc":"/media/articles/shimoda-sidecountry-backpack-review-modular-adventure-camera-bag/01-thumb.avif","thumbnailAlt":"mid","date":"2026-05-22T04:36:05.323Z","formattedDate":"May 22, 2026","category":"Gear","categorySlug":"gear","tags":[],"hero":false,"readingTime":3,"content":"$6"},{"slug":"peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested","fileSlug":"Peak Design Travel Tripod Review The Most Innovative Tripod We've Ever Tested","title":"Peak Design Travel Tripod Review: The Most Innovative Tripod We've Ever Tested","description":"Peak Design spent years secretly developing what may be their most ambitious product to date: a travel tripod redesigned entirely from the ground up. Instead...","thumbnailSrc":"/media/articles/peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested/01-thumb.avif","thumbnailAlt":"SEAT BAG OPTION IS A PADDED CAMERA BAG","date":"2026-05-22T04:36:04.626Z","formattedDate":"May 22, 2026","category":"Gear","categorySlug":"gear","tags":[],"hero":false,"readingTime":4,"content":"$7"},{"slug":"peak-design-everyday-backpack-v2-review-still-the-king-of-camera-bags-in-2025","fileSlug":"Peak Design Everyday Backpack V2 Review Still the King of Camera Bags in 2025","title":"Peak Design Everyday Backpack V2 Review: Still the King of Camera Bags in 2025","description":"The Peak Design Everyday Backpack has been the gold standard of camera bags since its 2015 Kickstarter debut. The V2 iteration refines the formula with impro...","thumbnailSrc":"/media/articles/peak-design-everyday-backpack-v2-review-still-the-king-of-camera-bags-in-2025/01-thumb.avif","thumbnailAlt":"mid","date":"2026-05-22T04:36:03.932Z","formattedDate":"May 22, 2026","category":"Gear","categorySlug":"gear","tags":[],"hero":false,"readingTime":3,"content":"$8"},{"slug":"peak-design-capture-clip-v3-review-the-best-way-to-carry-a-camera-on-your-backpack","fileSlug":"Peak Design Capture Clip V3 Review The Best Way to Carry a Camera on Your Backpack","title":"Peak Design Capture Clip V3 Review: The Best Way to Carry a Camera on Your Backpack","description":"The Peak Design Capture Clip solves a problem every outdoor photographer knows: how to keep a camera accessible without the neck strain of a strap or the inc...","thumbnailSrc":"/media/articles/peak-design-capture-clip-v3-review-the-best-way-to-carry-a-camera-on-your-backpack/01-thumb.avif","thumbnailAlt":"n182_w1150","date":"2026-05-22T04:36:03.244Z","formattedDate":"May 22, 2026","category":"Camera Reviews","categorySlug":"camera-reviews","tags":[],"hero":false,"readingTime":3,"content":"$9"},{"slug":"sony-a6400-review-lightning-fast-autofocus-in-a-compact-body","fileSlug":"Sony a6400 Review Lightning-Fast Autofocus in a Compact Body","title":"Sony a6400 Review: Lightning-Fast Autofocus in a Compact Body","description":"The Sony a6400 occupies an interesting place in the mirrorless camera landscape — it's small enough to carry everywhere, yet its autofocus system rivals came...","thumbnailSrc":"/media/articles/sony-a6400-review-lightning-fast-autofocus-in-a-compact-body/01-thumb.avif","thumbnailAlt":"Camera equipment at Triggar VR booth at SVVR 2015 (closeup)","date":"2026-05-22T04:36:02.542Z","formattedDate":"May 22, 2026","category":"Camera Reviews","categorySlug":"camera-reviews","tags":[],"hero":false,"readingTime":3,"content":"$a"},{"slug":"gopro-hero-13-review-magnetic-mounts-make-the-difference","fileSlug":"GoPro Hero 13 Review Magnetic Mounts Make the Difference","title":"GoPro Hero 13 Review: Magnetic Mounts Make the Difference","description":"After a year of testing — mountain biking, skiing, hiking, sailing, and commercial B-camera duty — the GoPro Hero 13 earns its place as the best action camer...","thumbnailSrc":"/media/articles/gopro-hero-13-review-magnetic-mounts-make-the-difference/01-thumb.avif","thumbnailAlt":"DSLR Photography Camera","date":"2026-05-22T02:53:41.319Z","formattedDate":"May 22, 2026","category":"Camera Reviews","categorySlug":"camera-reviews","tags":[],"hero":false,"readingTime":2,"content":"$b"}]}],"$Lc","$Ld","$Le","$Lf"]}],["$L10"],"$L11"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"UJ7IEaUxJ5AY2XLfN5N5S"}
+c:["$","section",null,{"className":"lead-stack","aria-label":"Top stories","children":[["$","$L12","the-best-underwater-housings-for-mirrorless-cameras-in-2026",{"className":"lead-story lead-story-featured","href":"/articles/the-best-underwater-housings-for-mirrorless-cameras-in-2026","children":[["$","img",null,{"src":"/media/articles/the-best-underwater-housings-for-mirrorless-cameras-in-2026/01-thumb.avif","alt":"Image 2: Top Underwater Housings for Mirrorless Cameras 2","decoding":"async","fetchPriority":"high","height":"720","width":"1280"}],["$","span",null,{"className":"lead-story-copy","children":[["$","span",null,{"className":"lead-category","children":"Camera Reviews"}],["$","strong",null,{"children":"The Best Underwater Housings for Mirrorless Cameras in 2026"}]]}]]}],["$","$L12","the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026",{"className":"lead-story","href":"/articles/the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026","children":[["$","img",null,{"src":"/media/articles/the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026/01-thumb.avif","alt":"Image 2: Best Anamorphic Lenses for iPhone Photography - 2. Moment Anamorphic T-Series 1.33x Mobile Lens (Best Value)","decoding":"async","fetchPriority":"auto","height":"720","width":"1280"}],["$","span",null,{"className":"lead-story-copy","children":[["$","span",null,{"className":"lead-category","children":"Lenses"}],["$","strong",null,{"children":"The Best Anamorphic Lenses for iPhone Photography and Video in 2026"}]]}]]}],["$","$L12","shimoda-sidecountry-backpack-review-modular-adventure-camera-bag",{"className":"lead-story","href":"/articles/shimoda-sidecountry-backpack-review-modular-adventure-camera-bag","children":[["$","img",null,{"src":"/media/articles/shimoda-sidecountry-backpack-review-modular-adventure-camera-bag/01-thumb.avif","alt":"mid","decoding":"async","fetchPriority":"auto","height":"720","width":"1280"}],["$","span",null,{"className":"lead-story-copy","children":[["$","span",null,{"className":"lead-category","children":"Gear"}],["$","strong",null,{"children":"Shimoda Sidecountry Backpack Review: Modular Adventure Camera Bag"}]]}]]}],["$","$L12","peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested",{"className":"lead-story","href":"/articles/peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested","children":[["$","img",null,{"src":"/media/articles/peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested/01-thumb.avif","alt":"SEAT BAG OPTION IS A PADDED CAMERA BAG","decoding":"async","fetchPriority":"auto","height":"720","width":"1280"}],["$","span",null,{"className":"lead-story-copy","children":[["$","span",null,{"className":"lead-category","children":"Gear"}],["$","strong",null,{"children":"Peak Design Travel Tripod Review: The Most Innovative Tripod We've Ever Tested"}]]}]]}]]}]
+d:["$","section",null,{"id":"latest","className":"news-layout","children":["$","div",null,{"className":"section-inner","children":[["$","div",null,{"className":"main-feed","children":[["$","div",null,{"className":"section-title-row","children":[["$","h2",null,{"children":"The Latest"}],["$","$L12",null,{"href":"/articles","children":"All Articles"}]]}],["$","div",null,{"className":"latest-list","children":[["$","article","the-best-underwater-housings-for-mirrorless-cameras-in-2026",{"className":"news-item","children":[["$","$L12",null,{"className":"news-thumb","href":"/articles/the-best-underwater-housings-for-mirrorless-cameras-in-2026","aria-label":"The Best Underwater Housings for Mirrorless Cameras in 2026","children":["$","img",null,{"src":"/media/articles/the-best-underwater-housings-for-mirrorless-cameras-in-2026/01-thumb.avif","alt":"Image 2: Top Underwater Housings for Mirrorless Cameras 2","decoding":"async","height":"360","loading":"lazy","width":"520"}]}],["$","div",null,{"className":"news-item-body","children":[["$","div",null,{"className":"news-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:46:41.475Z","children":"May 22, 2026"}],["$","span",null,{"children":"Camera Reviews"}]]}],["$","h3",null,{"children":["$","$L12",null,{"href":"/articles/the-best-underwater-housings-for-mirrorless-cameras-in-2026","children":"The Best Underwater Housings for Mirrorless Cameras in 2026"}]}],["$","p",null,{"children":"Taking your mirrorless camera underwater opens up a completely different world of photography — from vibrant coral reefs and schooling fish to dramatic surf..."}]]}]]}],["$","article","the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026",{"className":"news-item","children":[["$","$L12",null,{"className":"news-thumb","href":"/articles/the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026","aria-label":"The Best Anamorphic Lenses for iPhone Photography and Video in 2026","children":["$","img",null,{"src":"/media/articles/the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026/01-thumb.avif","alt":"Image 2: Best Anamorphic Lenses for iPhone Photography - 2. Moment Anamorphic T-Series 1.33x Mobile Lens (Best Value)","decoding":"async","height":"360","loading":"lazy","width":"520"}]}],["$","div",null,{"className":"news-item-body","children":[["$","div",null,{"className":"news-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:46:40.788Z","children":"May 22, 2026"}],["$","span",null,{"children":"Lenses"}]]}],["$","h3",null,{"children":["$","$L12",null,{"href":"/articles/the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026","children":"The Best Anamorphic Lenses for iPhone Photography and Video in 2026"}]}],["$","p",null,{"children":"The iPhone has come a long way as a filmmaking tool. Modern models shoot stunning 4K video, handle low light remarkably well, and fit comfortably in your poc..."}]]}]]}],["$","article","shimoda-sidecountry-backpack-review-modular-adventure-camera-bag",{"className":"news-item","children":[["$","$L12",null,{"className":"news-thumb","href":"/articles/shimoda-sidecountry-backpack-review-modular-adventure-camera-bag","aria-label":"Shimoda Sidecountry Backpack Review: Modular Adventure Camera Bag","children":["$","img",null,{"src":"/media/articles/shimoda-sidecountry-backpack-review-modular-adventure-camera-bag/01-thumb.avif","alt":"mid","decoding":"async","height":"360","loading":"lazy","width":"520"}]}],["$","div",null,{"className":"news-item-body","children":[["$","div",null,{"className":"news-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:36:05.323Z","children":"May 22, 2026"}],["$","span",null,{"children":"Gear"}]]}],["$","h3",null,{"children":["$","$L12",null,{"href":"/articles/shimoda-sidecountry-backpack-review-modular-adventure-camera-bag","children":"Shimoda Sidecountry Backpack Review: Modular Adventure Camera Bag"}]}],["$","p",null,{"children":"The Shimoda Sidecountry is a lightweight, modular backpack system designed for adventure photographers who need quick camera access without sacrificing hikin..."}]]}]]}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b"]}]]}],"$L1c"]}]}]
+e:["$","section",null,{"className":"section compact-archive","children":["$","div",null,{"className":"section-inner","children":[["$","div",null,{"className":"section-title-row","children":[["$","h2",null,{"children":"More From Optimum Mag"}],["$","$L12",null,{"href":"/articles","children":"Browse Archive"}]]}],["$","div",null,{"className":"article-grid","children":[["$","$L12","the-best-underwater-housings-for-mirrorless-cameras-in-2026",{"className":"article-card","href":"/articles/the-best-underwater-housings-for-mirrorless-cameras-in-2026","children":[["$","div",null,{"className":"article-card-image","children":["$","img",null,{"src":"/media/articles/the-best-underwater-housings-for-mirrorless-cameras-in-2026/01-thumb.avif","alt":"Image 2: Top Underwater Housings for Mirrorless Cameras 2","decoding":"async","height":"480","loading":"lazy","width":"720"}]}],["$","div",null,{"className":"article-card-body","children":[["$","div",null,{"className":"article-card-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:46:41.475Z","children":"May 22, 2026"}],["$","span",null,{"className":"tag category-tag","children":"Camera Reviews"}]]}],["$","h3",null,{"children":"The Best Underwater Housings for Mirrorless Cameras in 2026"}],["$","p",null,{"children":"Taking your mirrorless camera underwater opens up a completely different world of photography — from vibrant coral reefs and schooling fish to dramatic surf..."}],null]}]]}],["$","$L12","the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026",{"className":"article-card","href":"/articles/the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026","children":[["$","div",null,{"className":"article-card-image","children":["$","img",null,{"src":"/media/articles/the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026/01-thumb.avif","alt":"Image 2: Best Anamorphic Lenses for iPhone Photography - 2. Moment Anamorphic T-Series 1.33x Mobile Lens (Best Value)","decoding":"async","height":"480","loading":"lazy","width":"720"}]}],["$","div",null,{"className":"article-card-body","children":[["$","div",null,{"className":"article-card-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:46:40.788Z","children":"May 22, 2026"}],["$","span",null,{"className":"tag category-tag","children":"Lenses"}]]}],["$","h3",null,{"children":"The Best Anamorphic Lenses for iPhone Photography and Video in 2026"}],["$","p",null,{"children":"The iPhone has come a long way as a filmmaking tool. Modern models shoot stunning 4K video, handle low light remarkably well, and fit comfortably in your poc..."}],null]}]]}],["$","$L12","shimoda-sidecountry-backpack-review-modular-adventure-camera-bag",{"className":"article-card","href":"/articles/shimoda-sidecountry-backpack-review-modular-adventure-camera-bag","children":[["$","div",null,{"className":"article-card-image","children":["$","img",null,{"src":"/media/articles/shimoda-sidecountry-backpack-review-modular-adventure-camera-bag/01-thumb.avif","alt":"mid","decoding":"async","height":"480","loading":"lazy","width":"720"}]}],["$","div",null,{"className":"article-card-body","children":[["$","div",null,{"className":"article-card-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:36:05.323Z","children":"May 22, 2026"}],["$","span",null,{"className":"tag category-tag","children":"Gear"}]]}],["$","h3",null,{"children":"Shimoda Sidecountry Backpack Review: Modular Adventure Camera Bag"}],["$","p",null,{"children":"The Shimoda Sidecountry is a lightweight, modular backpack system designed for adventure photographers who need quick camera access without sacrificing hikin..."}],null]}]]}],["$","$L12","peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested",{"className":"article-card","href":"/articles/peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested","children":[["$","div",null,{"className":"article-card-image","children":["$","img",null,{"src":"/media/articles/peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested/01-thumb.avif","alt":"SEAT BAG OPTION IS A PADDED CAMERA BAG","decoding":"async","height":"480","loading":"lazy","width":"720"}]}],"$L1d"]}],"$L1e","$L1f"]}]]}]}]
+f:["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"section-inner footer-inner","children":[["$","div",null,{"className":"footer-about","children":[["$","$L12",null,{"className":"footer-brand","href":"/","children":[["$","span",null,{"children":"Optimum"}],["$","span",null,{"children":"Mag"}]]}],["$","p",null,{"children":"Optimum Mag is a photography magazine for camera reviews, lens tests, field technique, imaging workflow, and interviews with working photographers."}],["$","a",null,{"className":"footer-email","href":"mailto:contact@optimummag.com","children":"contact@optimummag.com"}]]}],["$","div",null,{"className":"footer-nav-grid","children":[["$","nav",null,{"className":"footer-link-group footer-category-links","aria-label":"Footer category navigation","children":[["$","h2",null,{"children":"Categories"}],["$","div",null,{"className":"footer-links","children":[["$","$L12","camera-reviews",{"href":"/categories/camera-reviews","children":"Camera Reviews"}],["$","$L12","lenses",{"href":"/categories/lenses","children":"Lenses"}],["$","$L12","tutorials",{"href":"/categories/tutorials","children":"Tutorials"}],["$","$L12","gear",{"href":"/categories/gear","children":"Gear"}],["$","$L12","interviews",{"href":"/categories/interviews","children":"Interviews"}]]}]]}],["$","nav",null,{"className":"footer-link-group","aria-label":"Footer site navigation","children":[["$","h2",null,{"children":"Site"}],["$","div",null,{"className":"footer-links","children":[["$","$L12",null,{"href":"/articles","children":"All Articles"}],["$","$L12",null,{"href":"/about","children":"About"}],["$","$L12",null,{"href":"/contact-us","children":"Contact Us"}],["$","$L12",null,{"href":"/advertise","children":"Advertise"}],["$","$L12",null,{"href":"/privacy-policy","children":"Privacy Policy"}]]}]]}]]}]]}]}]
+10:["$","script","script-0",{"src":"/_next/static/chunks/15qux-d7v8svq.js","async":true}]
+11:["$","$L20",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]
+13:["$","article","peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested",{"className":"news-item","children":[["$","$L12",null,{"className":"news-thumb","href":"/articles/peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested","aria-label":"Peak Design Travel Tripod Review: The Most Innovative Tripod We've Ever Tested","children":["$","img",null,{"src":"/media/articles/peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested/01-thumb.avif","alt":"SEAT BAG OPTION IS A PADDED CAMERA BAG","decoding":"async","height":"360","loading":"lazy","width":"520"}]}],["$","div",null,{"className":"news-item-body","children":[["$","div",null,{"className":"news-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:36:04.626Z","children":"May 22, 2026"}],["$","span",null,{"children":"Gear"}]]}],["$","h3",null,{"children":["$","$L12",null,{"href":"/articles/peak-design-travel-tripod-review-the-most-innovative-tripod-weve-ever-tested","children":"Peak Design Travel Tripod Review: The Most Innovative Tripod We've Ever Tested"}]}],["$","p",null,{"children":"Peak Design spent years secretly developing what may be their most ambitious product to date: a travel tripod redesigned entirely from the ground up. Instead..."}]]}]]}]
+14:["$","article","peak-design-everyday-backpack-v2-review-still-the-king-of-camera-bags-in-2025",{"className":"news-item","children":[["$","$L12",null,{"className":"news-thumb","href":"/articles/peak-design-everyday-backpack-v2-review-still-the-king-of-camera-bags-in-2025","aria-label":"Peak Design Everyday Backpack V2 Review: Still the King of Camera Bags in 2025","children":["$","img",null,{"src":"/media/articles/peak-design-everyday-backpack-v2-review-still-the-king-of-camera-bags-in-2025/01-thumb.avif","alt":"mid","decoding":"async","height":"360","loading":"lazy","width":"520"}]}],["$","div",null,{"className":"news-item-body","children":[["$","div",null,{"className":"news-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:36:03.932Z","children":"May 22, 2026"}],["$","span",null,{"children":"Gear"}]]}],["$","h3",null,{"children":["$","$L12",null,{"href":"/articles/peak-design-everyday-backpack-v2-review-still-the-king-of-camera-bags-in-2025","children":"Peak Design Everyday Backpack V2 Review: Still the King of Camera Bags in 2025"}]}],["$","p",null,{"children":"The Peak Design Everyday Backpack has been the gold standard of camera bags since its 2015 Kickstarter debut. The V2 iteration refines the formula with impro..."}]]}]]}]
+15:["$","article","peak-design-capture-clip-v3-review-the-best-way-to-carry-a-camera-on-your-backpack",{"className":"news-item","children":[["$","$L12",null,{"className":"news-thumb","href":"/articles/peak-design-capture-clip-v3-review-the-best-way-to-carry-a-camera-on-your-backpack","aria-label":"Peak Design Capture Clip V3 Review: The Best Way to Carry a Camera on Your Backpack","children":["$","img",null,{"src":"/media/articles/peak-design-capture-clip-v3-review-the-best-way-to-carry-a-camera-on-your-backpack/01-thumb.avif","alt":"n182_w1150","decoding":"async","height":"360","loading":"lazy","width":"520"}]}],["$","div",null,{"className":"news-item-body","children":[["$","div",null,{"className":"news-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:36:03.244Z","children":"May 22, 2026"}],["$","span",null,{"children":"Camera Reviews"}]]}],["$","h3",null,{"children":["$","$L12",null,{"href":"/articles/peak-design-capture-clip-v3-review-the-best-way-to-carry-a-camera-on-your-backpack","children":"Peak Design Capture Clip V3 Review: The Best Way to Carry a Camera on Your Backpack"}]}],["$","p",null,{"children":"The Peak Design Capture Clip solves a problem every outdoor photographer knows: how to keep a camera accessible without the neck strain of a strap or the inc..."}]]}]]}]
+16:["$","article","sony-a6400-review-lightning-fast-autofocus-in-a-compact-body",{"className":"news-item","children":[["$","$L12",null,{"className":"news-thumb","href":"/articles/sony-a6400-review-lightning-fast-autofocus-in-a-compact-body","aria-label":"Sony a6400 Review: Lightning-Fast Autofocus in a Compact Body","children":["$","img",null,{"src":"/media/articles/sony-a6400-review-lightning-fast-autofocus-in-a-compact-body/01-thumb.avif","alt":"Camera equipment at Triggar VR booth at SVVR 2015 (closeup)","decoding":"async","height":"360","loading":"lazy","width":"520"}]}],["$","div",null,{"className":"news-item-body","children":[["$","div",null,{"className":"news-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:36:02.542Z","children":"May 22, 2026"}],["$","span",null,{"children":"Camera Reviews"}]]}],["$","h3",null,{"children":["$","$L12",null,{"href":"/articles/sony-a6400-review-lightning-fast-autofocus-in-a-compact-body","children":"Sony a6400 Review: Lightning-Fast Autofocus in a Compact Body"}]}],["$","p",null,{"children":"The Sony a6400 occupies an interesting place in the mirrorless camera landscape — it's small enough to carry everywhere, yet its autofocus system rivals came..."}]]}]]}]
+17:["$","article","gopro-hero-13-review-magnetic-mounts-make-the-difference",{"className":"news-item","children":[["$","$L12",null,{"className":"news-thumb","href":"/articles/gopro-hero-13-review-magnetic-mounts-make-the-difference","aria-label":"GoPro Hero 13 Review: Magnetic Mounts Make the Difference","children":["$","img",null,{"src":"/media/articles/gopro-hero-13-review-magnetic-mounts-make-the-difference/01-thumb.avif","alt":"DSLR Photography Camera","decoding":"async","height":"360","loading":"lazy","width":"520"}]}],["$","div",null,{"className":"news-item-body","children":[["$","div",null,{"className":"news-meta","children":[["$","time",null,{"dateTime":"2026-05-22T02:53:41.319Z","children":"May 22, 2026"}],["$","span",null,{"children":"Camera Reviews"}]]}],["$","h3",null,{"children":["$","$L12",null,{"href":"/articles/gopro-hero-13-review-magnetic-mounts-make-the-difference","children":"GoPro Hero 13 Review: Magnetic Mounts Make the Difference"}]}],["$","p",null,{"children":"After a year of testing — mountain biking, skiing, hiking, sailing, and commercial B-camera duty — the GoPro Hero 13 earns its place as the best action camer..."}]]}]]}]
+18:["$","article","dji-mavic-4-pro-review-a-noticeable-upgrade-over-the-mavic-3",{"className":"news-item","children":[["$","$L12",null,{"className":"news-thumb","href":"/articles/dji-mavic-4-pro-review-a-noticeable-upgrade-over-the-mavic-3","aria-label":"DJI Mavic 4 Pro Review: A Noticeable Upgrade Over the Mavic 3","children":["$","img",null,{"src":"/media/articles/dji-mavic-4-pro-review-a-noticeable-upgrade-over-the-mavic-3/01-thumb.avif","alt":"Phantom 3 Advance Drone Camera","decoding":"async","height":"360","loading":"lazy","width":"520"}]}],["$","div",null,{"className":"news-item-body","children":[["$","div",null,{"className":"news-meta","children":[["$","time",null,{"dateTime":"2026-05-22T02:53:40.621Z","children":"May 22, 2026"}],["$","span",null,{"children":"Camera Reviews"}]]}],["$","h3",null,{"children":["$","$L12",null,{"href":"/articles/dji-mavic-4-pro-review-a-noticeable-upgrade-over-the-mavic-3","children":"DJI Mavic 4 Pro Review: A Noticeable Upgrade Over the Mavic 3"}]}],["$","p",null,{"children":"After weeks testing the DJI Mavic 4 Pro across Colorado's mountains and the desert southwest, I can confirm this is a meaningful upgrade over the Mavic 3 Pro..."}]]}]]}]
+19:["$","article","canon-eos-r5-mark-ii-review-the-hybrid-powerhouse-that-tempted-a-sony-shooter",{"className":"news-item","children":[["$","$L12",null,{"className":"news-thumb","href":"/articles/canon-eos-r5-mark-ii-review-the-hybrid-powerhouse-that-tempted-a-sony-shooter","aria-label":"Canon EOS R5 Mark II Review: The Hybrid Powerhouse That Tempted a Sony Shooter","children":["$","img",null,{"src":"/media/articles/canon-eos-r5-mark-ii-review-the-hybrid-powerhouse-that-tempted-a-sony-shooter/01-thumb.avif","alt":"Camera equipment at Triggar VR booth at SVVR 2015 (closeup)","decoding":"async","height":"360","loading":"lazy","width":"520"}]}],["$","div",null,{"className":"news-item-body","children":[["$","div",null,{"className":"news-meta","children":[["$","time",null,{"dateTime":"2026-05-22T02:53:39.924Z","children":"May 22, 2026"}],["$","span",null,{"children":"Camera Reviews"}]]}],["$","h3",null,{"children":["$","$L12",null,{"href":"/articles/canon-eos-r5-mark-ii-review-the-hybrid-powerhouse-that-tempted-a-sony-shooter","children":"Canon EOS R5 Mark II Review: The Hybrid Powerhouse That Tempted a Sony Shooter"}]}],["$","p",null,{"children":"As a Sony shooter for nearly a decade, I didn't expect the Canon R5 Mark II to tempt me toward a system switch — but after several weeks of intensive testing..."}]]}]]}]
+1a:["$","article","antigravity-a1-review-8k-360-drone-that-changes-how-you-fly",{"className":"news-item","children":[["$","$L12",null,{"className":"news-thumb","href":"/articles/antigravity-a1-review-8k-360-drone-that-changes-how-you-fly","aria-label":"Antigravity A1 Review: 8K 360° Drone That Changes How You Fly","children":["$","img",null,{"src":"/media/articles/antigravity-a1-review-8k-360-drone-that-changes-how-you-fly/01-thumb.avif","alt":"Phantom 3 Advance Drone Camera","decoding":"async","height":"360","loading":"lazy","width":"520"}]}],["$","div",null,{"className":"news-item-body","children":[["$","div",null,{"className":"news-meta","children":[["$","time",null,{"dateTime":"2026-05-22T02:53:39.243Z","children":"May 22, 2026"}],["$","span",null,{"children":"Camera Reviews"}]]}],["$","h3",null,{"children":["$","$L12",null,{"href":"/articles/antigravity-a1-review-8k-360-drone-that-changes-how-you-fly","children":"Antigravity A1 Review: 8K 360° Drone That Changes How You Fly"}]}],["$","p",null,{"children":"Incubated by Insta360, the Antigravity A1 is unlike any drone I've flown. Instead of dual sticks, you fly with a motion-sensing Grip Controller while wearing..."}]]}]]}]
+1b:["$","article","wotancraft-full-leather-camera-pouch-review-premium-protection-in-four-sizes",{"className":"news-item","children":[["$","$L12",null,{"className":"news-thumb","href":"/articles/wotancraft-full-leather-camera-pouch-review-premium-protection-in-four-sizes","aria-label":"Wotancraft Full Leather Camera Pouch Review: Premium Protection in Four Sizes","children":["$","img",null,{"src":"/media/articles/wotancraft-full-leather-camera-pouch-review-premium-protection-in-four-sizes/01-thumb.avif","alt":"n182_w1150","decoding":"async","height":"360","loading":"lazy","width":"520"}]}],["$","div",null,{"className":"news-item-body","children":[["$","div",null,{"className":"news-meta","children":[["$","time",null,{"dateTime":"2026-05-22T02:53:38.532Z","children":"May 22, 2026"}],["$","span",null,{"children":"Camera Reviews"}]]}],["$","h3",null,{"children":["$","$L12",null,{"href":"/articles/wotancraft-full-leather-camera-pouch-review-premium-protection-in-four-sizes","children":"Wotancraft Full Leather Camera Pouch Review: Premium Protection in Four Sizes"}]}],["$","p",null,{"children":"Wotancraft's Full Leather Portable Camera Pouches bring the brand's signature vintage-meets-functional aesthetic to a compact form factor. Available in four..."}]]}]]}]
+1c:["$","aside",null,{"className":"homepage-sidebar","aria-label":"Featured sections","children":[["$","section",null,{"className":"feature-block","children":[["$","div",null,{"className":"feature-block-heading","children":[["$","h2",null,{"children":"Featured Reviews"}],["$","$L12",null,{"href":"/categories/camera-reviews","children":"More >"}]]}],["$","div",null,{"className":"feature-list","children":[["$","$L12","the-best-underwater-housings-for-mirrorless-cameras-in-2026",{"href":"/articles/the-best-underwater-housings-for-mirrorless-cameras-in-2026","children":[["$","img",null,{"src":"/media/articles/the-best-underwater-housings-for-mirrorless-cameras-in-2026/01-thumb.avif","alt":"Image 2: Top Underwater Housings for Mirrorless Cameras 2","decoding":"async","height":"180","loading":"lazy","width":"260"}],["$","strong",null,{"children":"The Best Underwater Housings for Mirrorless Cameras in 2026"}]]}],["$","$L12","peak-design-capture-clip-v3-review-the-best-way-to-carry-a-camera-on-your-backpack",{"href":"/articles/peak-design-capture-clip-v3-review-the-best-way-to-carry-a-camera-on-your-backpack","children":[["$","img",null,{"src":"/media/articles/peak-design-capture-clip-v3-review-the-best-way-to-carry-a-camera-on-your-backpack/01-thumb.avif","alt":"n182_w1150","decoding":"async","height":"180","loading":"lazy","width":"260"}],["$","strong",null,{"children":"Peak Design Capture Clip V3 Review: The Best Way to Carry a Camera on Your Backpack"}]]}],["$","$L12","sony-a6400-review-lightning-fast-autofocus-in-a-compact-body",{"href":"/articles/sony-a6400-review-lightning-fast-autofocus-in-a-compact-body","children":[["$","img",null,{"src":"/media/articles/sony-a6400-review-lightning-fast-autofocus-in-a-compact-body/01-thumb.avif","alt":"Camera equipment at Triggar VR booth at SVVR 2015 (closeup)","decoding":"async","height":"180","loading":"lazy","width":"260"}],["$","strong",null,{"children":"Sony a6400 Review: Lightning-Fast Autofocus in a Compact Body"}]]}]]}]]}],["$","section",null,{"className":"membership-block","children":[["$","h2",null,{"children":"Become a Reader"}],["$","p",null,{"children":"Get field-tested buying notes, workflow ideas, and new photography guides."}],["$","$L12",null,{"className":"button primary","href":"mailto:contact@optimummag.com","children":"Contact the Desk"}]]}],["$","section",null,{"className":"feature-block","children":[["$","div",null,{"className":"feature-block-heading","children":[["$","h2",null,{"children":"Featured Guides"}],["$","$L12",null,{"href":"/categories/tutorials","children":"More >"}]]}],["$","div",null,{"className":"feature-list","children":[["$","$L12","one-window-portrait-lighting-a-quiet-setup-that-works",{"href":"/articles/one-window-portrait-lighting-a-quiet-setup-that-works","children":[["$","img",null,{"src":"/media/articles/canons-answer-to-the-sony-fx3-a-hands-on-canon-c50-review/03-thumb.avif","alt":"Studio portrait subject under soft light","decoding":"async","height":"180","loading":"lazy","width":"260"}],["$","strong",null,{"children":"One Window Portrait Lighting: A Quiet Setup That Works"}]]}],["$","$L12","the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026",{"href":"/articles/the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026","children":[["$","img",null,{"src":"/media/articles/the-best-anamorphic-lenses-for-iphone-photography-and-video-in-2026/01-thumb.avif","alt":"Image 2: Best Anamorphic Lenses for iPhone Photography - 2. Moment Anamorphic T-Series 1.33x Mobile Lens (Best Value)","decoding":"async","height":"180","loading":"lazy","width":"260"}],["$","strong",null,{"children":"The Best Anamorphic Lenses for iPhone Photography and Video in 2026"}]]}],["$","$L12","viltrox-af-85mm-f-1-4-pro-fe-review-portrait-glass-that-punches-above-its-price",{"href":"/articles/viltrox-af-85mm-f-1-4-pro-fe-review-portrait-glass-that-punches-above-its-price","children":[["$","img",null,{"src":"/media/articles/viltrox-af-85mm-f-1-4-pro-fe-review-portrait-glass-that-punches-above-its-price/01-thumb.avif","alt":"Camera lens","decoding":"async","height":"180","loading":"lazy","width":"260"}],"$L23"]}],"$L24","$L25","$L26"]}]]}],"$L27"]}]
+1d:["$","div",null,{"className":"article-card-body","children":[["$","div",null,{"className":"article-card-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:36:04.626Z","children":"May 22, 2026"}],["$","span",null,{"className":"tag category-tag","children":"Gear"}]]}],["$","h3",null,{"children":"Peak Design Travel Tripod Review: The Most Innovative Tripod We've Ever Tested"}],["$","p",null,{"children":"Peak Design spent years secretly developing what may be their most ambitious product to date: a travel tripod redesigned entirely from the ground up. Instead..."}],null]}]
+1e:["$","$L12","peak-design-everyday-backpack-v2-review-still-the-king-of-camera-bags-in-2025",{"className":"article-card","href":"/articles/peak-design-everyday-backpack-v2-review-still-the-king-of-camera-bags-in-2025","children":[["$","div",null,{"className":"article-card-image","children":["$","img",null,{"src":"/media/articles/peak-design-everyday-backpack-v2-review-still-the-king-of-camera-bags-in-2025/01-thumb.avif","alt":"mid","decoding":"async","height":"480","loading":"lazy","width":"720"}]}],["$","div",null,{"className":"article-card-body","children":[["$","div",null,{"className":"article-card-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:36:03.932Z","children":"May 22, 2026"}],["$","span",null,{"className":"tag category-tag","children":"Gear"}]]}],["$","h3",null,{"children":"Peak Design Everyday Backpack V2 Review: Still the King of Camera Bags in 2025"}],["$","p",null,{"children":"The Peak Design Everyday Backpack has been the gold standard of camera bags since its 2015 Kickstarter debut. The V2 iteration refines the formula with impro..."}],null]}]]}]
+1f:["$","$L12","peak-design-capture-clip-v3-review-the-best-way-to-carry-a-camera-on-your-backpack",{"className":"article-card","href":"/articles/peak-design-capture-clip-v3-review-the-best-way-to-carry-a-camera-on-your-backpack","children":[["$","div",null,{"className":"article-card-image","children":["$","img",null,{"src":"/media/articles/peak-design-capture-clip-v3-review-the-best-way-to-carry-a-camera-on-your-backpack/01-thumb.avif","alt":"n182_w1150","decoding":"async","height":"480","loading":"lazy","width":"720"}]}],["$","div",null,{"className":"article-card-body","children":[["$","div",null,{"className":"article-card-meta","children":[["$","time",null,{"dateTime":"2026-05-22T04:36:03.244Z","children":"May 22, 2026"}],["$","span",null,{"className":"tag category-tag","children":"Camera Reviews"}]]}],["$","h3",null,{"children":"Peak Design Capture Clip V3 Review: The Best Way to Carry a Camera on Your Backpack"}],["$","p",null,{"children":"The Peak Design Capture Clip solves a problem every outdoor photographer knows: how to keep a camera accessible without the neck strain of a strap or the inc..."}],null]}]]}]
+22:null
+23:["$","strong",null,{"children":"Viltrox AF 85mm f/1.4 Pro FE Review: Portrait Glass That Punches Above Its Price"}]
+24:["$","$L12","sigma-24-70mm-f-2-8-dg-dn-ii-review-90-of-g-master-quality-at-half-the-price",{"href":"/articles/sigma-24-70mm-f-2-8-dg-dn-ii-review-90-of-g-master-quality-at-half-the-price","children":[["$","img",null,{"src":"/media/articles/sigma-24-70mm-f-2-8-dg-dn-ii-review-90-of-g-master-quality-at-half-the-price/01-thumb.avif","alt":"Camera lens","decoding":"async","height":"180","loading":"lazy","width":"260"}],["$","strong",null,{"children":"Sigma 24-70mm f/2.8 DG DN II Review: 90% of G-Master Quality at Half the Price"}]]}]
+25:["$","$L12","how-to-choose-your-first-prime-lens-without-wasting-money",{"href":"/articles/how-to-choose-your-first-prime-lens-without-wasting-money","children":[["$","img",null,{"src":"/media/articles/canons-answer-to-the-sony-fx3-a-hands-on-canon-c50-review/02-thumb.avif","alt":"Portrait session with camera and model in studio","decoding":"async","height":"180","loading":"lazy","width":"260"}],["$","strong",null,{"children":"How to Choose Your First Prime Lens Without Wasting Money"}]]}]
+26:["$","$L12","shimoda-sidecountry-backpack-review-modular-adventure-camera-bag",{"href":"/articles/shimoda-sidecountry-backpack-review-modular-adventure-camera-bag","children":[["$","img",null,{"src":"/media/articles/shimoda-sidecountry-backpack-review-modular-adventure-camera-bag/01-thumb.avif","alt":"mid","decoding":"async","height":"180","loading":"lazy","width":"260"}],["$","strong",null,{"children":"Shimoda Sidecountry Backpack Review: Modular Adventure Camera Bag"}]]}]
+27:["$","section",null,{"className":"feature-block","children":[["$","div",null,{"className":"feature-block-heading","children":[["$","h2",null,{"children":"Featured Spotlights"}],["$","$L12",null,{"href":"/categories/interviews","children":"More >"}]]}],["$","div",null,{"className":"feature-list","children":[["$","$L12","inside-a-quiet-studio-practice-a-photographer-interview",{"href":"/articles/inside-a-quiet-studio-practice-a-photographer-interview","children":[["$","img",null,{"src":"/media/articles/canons-answer-to-the-sony-fx3-a-hands-on-canon-c50-review/02-thumb.avif","alt":"Photographer directing a studio portrait session","decoding":"async","height":"180","loading":"lazy","width":"260"}],["$","strong",null,{"children":"Inside a Quiet Studio Practice: A Photographer Interview"}]]}]]}]]}]
