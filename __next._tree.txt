@@ -1,6 +1,6 @@
 :HL["/_next/static/chunks/0q3e1vyvw-ycl.css","style"]
-:HL["/media/articles/working-with-roxanne-lowit-the-queen-of-backstage-photography/01-thumb.avif","image",{"fetchPriority":"high"}]
-:HL["/media/articles/strike-a-pose-street-style-star-hanneli-mustaparta-shows-us-how/01-thumb.avif","image",{"fetchPriority":"auto"}]
-:HL["/media/articles/ryan-mcginleys-top-tips-for-taking-stylish-travel-photos/01-thumb.avif","image",{"fetchPriority":"auto"}]
-:HL["/media/articles/photographer-gray-malins-travel-tips-and-the-art-of-the-aerial-beach-photograph/01-thumb.avif","image",{"fetchPriority":"auto"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"zvvBoNe1IWQRTVO2QbdV4"}
+:HL["/media/articles/the-future-of-fashion-photography-where-the-industry-is-heading/01-thumb.avif","image",{"fetchPriority":"high"}]
+:HL["/media/articles/photovogue-festival-hayley-lohn-on-what-is-beauty/01-thumb.avif","image",{"fetchPriority":"auto"}]
+:HL["/media/articles/photography-as-community-the-power-of-collective-practice/01-thumb.avif","image",{"fetchPriority":"auto"}]
+:HL["/media/articles/photography-and-the-art-of-seeing-training-your-eye/01-thumb.avif","image",{"fetchPriority":"auto"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"bsHlZgGSYWbRSAiCbP9sZ"}
